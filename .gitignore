@@ -1,0 +1,16 @@
+# Archivos de bloqueo/temporales de Office
+~$*
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
