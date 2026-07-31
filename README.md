@@ -1,6 +1,4 @@
-# EIS: Framework para Evaluaciones de Impacto en Salud de intervenciones urbanas
-
-> Estado: documento en construcción. Las secciones de metodología y herramientas están confirmadas contra el código y los reportes revisados. Las secciones de reproducción paso a paso todavía están pendientes.
+# EIS: Evaluación de Impacto en Salud
 
 ## Qué es este repositorio
 
