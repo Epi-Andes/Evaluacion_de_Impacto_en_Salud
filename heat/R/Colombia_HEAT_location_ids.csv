@@ -1,0 +1,1657 @@
+location_id;alternative_id_country;alternative_id_sub;location_geolevel_type;country_location_id;country_iso3;country_location_name;sub1_location_id;sub1_location_name;sub2_location_id;sub2_location_name;city_location_id;city_location_name
+3686110;49;NA;country;3686110;COL;Colombia;NA;NA;NA;NA;NA;NA
+3666082;49;1222847;sub1;3686110;COL;Colombia;3666082;Departamento del Vichada;NA;NA;NA;NA
+3666254;49;1222945;sub1;3686110;COL;Colombia;3666254;Departamento del Vaupés;NA;NA;NA;NA
+3666313;49;1222979;sub1;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;NA;NA;NA;NA
+3666951;49;1223302;sub1;3686110;COL;Colombia;3666951;Departamento de Tolima;NA;NA;NA;NA
+3667725;49;1223704;sub1;3686110;COL;Colombia;3667725;Departamento de Sucre;NA;NA;NA;NA
+3668578;49;1224215;sub1;3686110;COL;Colombia;3668578;Departamento de Santander;NA;NA;NA;NA
+3670205;49;1225397;sub1;3686110;COL;Colombia;3670205;Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés;NA;NA;NA;NA
+3670698;49;1225667;sub1;3686110;COL;Colombia;3670698;Departamento de Risaralda;NA;NA;NA;NA
+3671087;49;1225884;sub1;3686110;COL;Colombia;3671087;Quindío Department;NA;NA;NA;NA
+3671178;49;1225931;sub1;3686110;COL;Colombia;3671178;Departamento del Putumayo;NA;NA;NA;NA
+3673798;49;1227523;sub1;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;NA;NA;NA;NA
+3674021;49;1227606;sub1;3686110;COL;Colombia;3674021;Departamento de Nariño;NA;NA;NA;NA
+3674810;49;1228013;sub1;3686110;COL;Colombia;3674810;Departamento del Meta;NA;NA;NA;NA
+3675686;49;1228472;sub1;3686110;COL;Colombia;3675686;Departamento del Magdalena;NA;NA;NA;NA
+3678847;49;1230585;sub1;3686110;COL;Colombia;3678847;Departamento de La Guajira;NA;NA;NA;NA
+3680692;49;1231846;sub1;3686110;COL;Colombia;3680692;Departamento del Huila;NA;NA;NA;NA
+3681344;49;1232224;sub1;3686110;COL;Colombia;3681344;Departamento del Guaviare;NA;NA;NA;NA
+3681652;49;1232368;sub1;3686110;COL;Colombia;3681652;Departamento del Guainía;NA;NA;NA;NA
+3685413;49;1234862;sub1;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;NA;NA;NA;NA
+3685889;49;1235109;sub1;3686110;COL;Colombia;3685889;Departamento de Córdoba;NA;NA;NA;NA
+3686431;49;1235394;sub1;3686110;COL;Colombia;3686431;Departamento del Chocó;NA;NA;NA;NA
+3686880;49;1235619;sub1;3686110;COL;Colombia;3686880;Departamento del Cesar;NA;NA;NA;NA
+3687029;49;1235704;sub1;3686110;COL;Colombia;3687029;Departamento del Cauca;NA;NA;NA;NA
+3687173;49;1235795;sub1;3686110;COL;Colombia;3687173;Departamento de Casanare;NA;NA;NA;NA
+3687479;49;1235980;sub1;3686110;COL;Colombia;3687479;Departamento del Caquetá;NA;NA;NA;NA
+3687951;49;1236269;sub1;3686110;COL;Colombia;3687951;Departamento de Caldas;NA;NA;NA;NA
+3688536;49;1236618;sub1;3686110;COL;Colombia;3688536;Departamento de Boyacá;NA;NA;NA;NA
+3688650;49;1236679;sub1;3686110;COL;Colombia;3688650;Departamento de Bolívar;NA;NA;NA;NA
+3688685;49;1236705;sub1;3686110;COL;Colombia;3688685;Distrito Capital de Bogotá;NA;NA;NA;NA
+3689436;49;1237171;sub1;3686110;COL;Colombia;3689436;Departamento del Atlántico;NA;NA;NA;NA
+3689717;49;1237339;sub1;3686110;COL;Colombia;3689717;Departamento de Arauca;NA;NA;NA;NA
+3689815;49;1237399;sub1;3686110;COL;Colombia;3689815;Departamento de Antioquia;NA;NA;NA;NA
+3689982;49;1237481;sub1;3686110;COL;Colombia;3689982;Amazonas;NA;NA;NA;NA
+3665543;49;1222511;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665543;Zipaquirá;NA;NA
+3665545;49;1222513;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665545;Zipacón;NA;NA
+3665548;49;1222515;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3665548;Zetaquira;NA;NA
+3665560;49;1222523;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3665560;Zarzal;NA;NA
+3665573;49;1222532;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665573;Zaragoza;NA;NA
+3665588;49;1222541;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3665588;Zapatoca;NA;NA
+3665619;49;1222558;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3665619;Zambrano;NA;NA
+3665679;49;1222591;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3665679;Yotoco;NA;NA
+3665690;49;1222600;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3665690;Yopal;NA;NA
+3665695;49;1222605;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665695;Yolombó;NA;NA
+3665747;49;1222629;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665747;Yarumal;NA;NA
+3665793;49;1222647;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665793;Yalí;NA;NA
+3665804;49;1222653;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3665804;Yaguará;NA;NA
+3665812;49;1222658;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3665812;Yacuanquer;NA;NA
+3665814;49;1222660;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665814;Yacopí;NA;NA
+3665852;49;1222679;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3665852;Viterbo;NA;NA
+3665880;49;1222700;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3665880;Viracachá;NA;NA
+3665882;49;1222702;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665882;Viotá;NA;NA
+3665896;49;1222709;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665896;Villeta;NA;NA
+3665899;49;1222711;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3665899;Villavieja;NA;NA
+3665901;49;1222713;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3665901;Villavicencio;NA;NA
+3665912;49;1222723;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3665912;Villarrica;NA;NA
+3665914;49;1222725;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3665914;Villa del Rosario;NA;NA
+3665925;49;1222736;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665925;Villapinzón;NA;NA
+3665960;49;1222763;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3665960;Villanueva;NA;NA
+3665961;49;1222764;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3665961;Villanueva;NA;NA
+3665975;49;1222777;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3665975;Villamaría;NA;NA
+3665989;49;1222789;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3665989;Villahermosa;NA;NA
+3666017;49;1222815;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3666017;Villa Caro;NA;NA
+3666026;49;1222823;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666026;Vijes;NA;NA
+3666079;49;1222846;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3666079;Victoria;NA;NA
+3666088;49;1222851;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666088;Vianí;NA;NA
+3666103;49;1222863;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666103;Versalles;NA;NA
+3666112;49;1222871;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666112;Vergara;NA;NA
+3666166;49;1222894;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666166;Ventaquemada;NA;NA
+3666207;49;1222919;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666207;Venecia;NA;NA
+3666227;49;1222925;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3666227;Venadillo;NA;NA
+3666233;49;1222929;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3666233;Vélez;NA;NA
+3666292;49;1222963;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666292;Valparaíso;NA;NA
+3666310;49;1222976;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3666310;Valle de San Juan;NA;NA
+3666312;49;1222978;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3666312;Valle de San José;NA;NA
+3666330;49;1222991;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3666330;Valencia;NA;NA
+3666334;49;1222993;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666334;Valdivia;NA;NA
+3666364;49;1223005;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666364;Útica;NA;NA
+3666371;49;1223010;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3666371;Usiacurí;NA;NA
+3666396;49;1223023;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666396;Urrao;NA;NA
+3666412;49;1223033;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3666412;Uribia;NA;NA
+3666482;49;1223069;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666482;Une;NA;NA
+3666494;49;1223073;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666494;Umbita;NA;NA
+3666504;49;1223078;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666504;Ulloa;NA;NA
+3666523;49;1223087;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666523;Ubaque;NA;NA
+3666527;49;1223090;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666527;Ubalá;NA;NA
+3666545;49;1223099;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666545;Tutazá;NA;NA
+3666551;49;1223104;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666551;Tuta;NA;NA
+3666563;49;1223110;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666563;Turmequé;NA;NA
+3666571;49;1223112;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666571;Turbo;NA;NA
+3666576;49;1223115;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3666576;Turbaná;NA;NA
+3666579;49;1223118;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3666579;Turbaco;NA;NA
+3666583;49;1223121;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3666583;Túquerres;NA;NA
+3666610;49;1223134;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666610;Tunja;NA;NA
+3666646;49;1223144;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666646;Tuluá;NA;NA
+3666674;49;1223159;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3666674;Tubará;NA;NA
+3666682;49;1223163;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666682;Trujillo;NA;NA
+3666722;49;1223178;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3666722;Trinidad;NA;NA
+3666835;49;1223248;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3666835;Totoró;NA;NA
+3666841;49;1223251;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666841;Tota;NA;NA
+3666882;49;1223263;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666882;Toro;NA;NA
+3666888;49;1223268;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3666888;Toribio;NA;NA
+3666904;49;1223277;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666904;Topaipí;NA;NA
+3666906;49;1223279;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666906;Tópaga;NA;NA
+3666922;49;1223286;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3666922;Tona;NA;NA
+3666941;49;1223296;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3666941;Tolú Viejo;NA;NA
+3666961;49;1223309;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3666961;Toledo;NA;NA
+3666962;49;1223310;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666962;Toledo;NA;NA
+3666965;49;1223313;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666965;Togüí;NA;NA
+3666998;49;1223335;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666998;Tocancipá;NA;NA
+3667004;49;1223339;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667004;Tocaima;NA;NA
+3667008;49;1223341;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667008;Toca;NA;NA
+3667024;49;1223351;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667024;Titiribí;NA;NA
+3667051;49;1223360;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667051;Tinjacá;NA;NA
+3667071;49;1223368;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3667071;Timbiquí;NA;NA
+3667074;49;1223370;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3667074;Timbío;NA;NA
+3667083;49;1223374;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3667083;Timaná;NA;NA
+3667159;49;1223399;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3667159;Tierralta;NA;NA
+3667206;49;1223435;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667206;Tibirita;NA;NA
+3667213;49;1223440;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667213;Tibasosa;NA;NA
+3667219;49;1223443;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667219;Tibaná;NA;NA
+3667223;49;1223446;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667223;Tibacuy;NA;NA
+3667245;49;1223457;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3667245;Tesalia;NA;NA
+3667248;49;1223459;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3667248;Teruel;NA;NA
+3667287;49;1223480;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3667287;Teorama;NA;NA
+3667289;49;1223482;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667289;Tenza;NA;NA
+3667292;49;1223485;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667292;Tenjo;NA;NA
+3667302;49;1223492;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3667302;Tenerife;NA;NA
+3667311;49;1223498;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667311;Tena;NA;NA
+3667324;49;1223505;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3667324;Tello;NA;NA
+3667352;49;1223516;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667352;Tausa;NA;NA
+3667374;49;1223528;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667374;Tasco;NA;NA
+3667381;49;1223533;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667381;Tarso;NA;NA
+3667388;49;1223539;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3667388;Tarqui;NA;NA
+3667448;49;1223563;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3667448;Tangua;NA;NA
+3667472;49;1223575;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3667472;Taminango;NA;NA
+3667474;49;1223577;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667474;Támesis;NA;NA
+3667480;49;1223579;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;3667480;Tame;NA;NA
+3667517;49;1223600;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3667517;Támara;NA;NA
+3667529;49;1223606;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3667529;Tamalameque;NA;NA
+3667580;49;1223629;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3667580;Tadó;NA;NA
+3667630;49;1223657;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667630;Tabio;NA;NA
+3667648;49;1223665;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667648;Sutatenza;NA;NA
+3667650;49;1223667;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667650;Sutatausa;NA;NA
+3667652;49;1223669;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667652;Sutamarchán;NA;NA
+3667661;49;1223675;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667661;Susacón;NA;NA
+3667666;49;1223678;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667666;Susa;NA;NA
+3667686;49;1223687;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3667686;Suratá;NA;NA
+3667698;49;1223691;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3667698;Supía;NA;NA
+3667702;49;1223693;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667702;Supatá;NA;NA
+3667718;49;1223702;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667718;Suesca;NA;NA
+3667734;49;1223713;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3667734;Sucre;NA;NA
+3667735;49;1223714;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3667735;Sucre;NA;NA
+3667761;49;1223719;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667761;Subachoque;NA;NA
+3667765;49;1223722;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3667765;Suaza;NA;NA
+3667775;49;1223726;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3667775;Suárez;NA;NA
+3667781;49;1223728;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3667781;Suan;NA;NA
+3667784;49;1223731;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3667784;Suaita;NA;NA
+3667795;49;1223738;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3667795;Sotara;NA;NA
+3667797;49;1223740;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667797;Sotaquirá;NA;NA
+3667808;49;1223746;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667808;Sopó;NA;NA
+3667813;49;1223749;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3667813;Soplaviento;NA;NA
+3667817;49;1223752;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667817;Sopetrán;NA;NA
+3667821;49;1223754;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667821;Sonson;NA;NA
+3667859;49;1223774;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3667859;Soledad;NA;NA
+3667869;49;1223776;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3667869;Bahía Solano;NA;NA
+3667874;49;1223779;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667874;Sogamoso;NA;NA
+3667881;49;1223783;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667881;Socotá;NA;NA
+3667888;49;1223786;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3667888;Socorro;NA;NA
+3667897;49;1223792;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667897;Socha;NA;NA
+3667903;49;1223796;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667903;Soatá;NA;NA
+3667906;49;1223798;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667906;Soacha;NA;NA
+3667924;49;1223811;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3667924;Sitionuevo;NA;NA
+3667960;49;1223831;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3667960;Sipí;NA;NA
+3667985;49;1223843;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3667985;Sincelejo;NA;NA
+3668014;49;1223855;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3668014;Simití;NA;NA
+3668018;49;1223857;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3668018;Simijaca;NA;NA
+3668024;49;1223861;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3668024;Simacota;NA;NA
+3668026;49;1223863;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3668026;Silvia;NA;NA
+3668029;49;1223865;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3668029;Silvania;NA;NA
+3668034;49;1223869;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3668034;Silos;NA;NA
+3668097;49;1223899;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3668097;Siachoque;NA;NA
+3668134;49;1223928;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3668134;Sevilla;NA;NA
+3668139;49;1223933;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3668139;Sesquilé;NA;NA
+3668177;49;1223952;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668177;Segovia;NA;NA
+3668220;49;1223970;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3668220;Sativasur;NA;NA
+3668222;49;1223972;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3668222;Sativanorte;NA;NA
+3668229;49;1223975;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3668229;Sasaima;NA;NA
+3668246;49;1223981;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3668246;Sardinata;NA;NA
+3668259;49;1223986;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;3668259;Saravena;NA;NA
+3668269;49;1223992;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3668269;Sapuyes;NA;NA
+3668287;49;1223995;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3668287;San Zenón;NA;NA
+3668291;49;1223999;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;3668291;San Vicente del Caguán;NA;NA
+3668293;49;1224001;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3668293;San Vicente de Chucurí;NA;NA
+3668318;49;1224020;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668318;San Vicente Ferrer;NA;NA
+3668328;49;1224028;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668328;El Santuario;NA;NA
+3668329;49;1224029;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3668329;Santuario;NA;NA
+3668337;49;1224035;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3668337;Santo Tomás;NA;NA
+3668401;49;1224072;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3668401;Santiago;NA;NA
+3668437;49;1224101;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3668437;Santa Sofía;NA;NA
+3668448;49;1224110;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3668448;Santa Rosa de Viterbo;NA;NA
+3668452;49;1224114;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668452;Santa Rosa de Osos;NA;NA
+3668455;49;1224117;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3668455;Santa Rosa de Cabal;NA;NA
+3668524;49;1224177;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3668524;Santa Rosa;NA;NA
+3668525;49;1224178;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3668525;Santa Rosa;NA;NA
+3668573;49;1224213;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3668573;Santander de Quilichao;NA;NA
+3668614;49;1224241;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3668614;Santa Marta;NA;NA
+3668643;49;1224262;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3668643;Santa María;NA;NA
+3668721;49;1224326;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3668721;Santa Isabel;NA;NA
+3668834;49;1224413;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3668834;Santacruz;NA;NA
+3668858;49;1224432;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3668858;Santa Catalina;NA;NA
+3668920;49;1224473;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668920;Santa Bárbara;NA;NA
+3668921;49;1224474;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3668921;Santa Bárbara;NA;NA
+3668928;49;1224475;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3668928;Santa Ana;NA;NA
+3668979;49;1224519;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3668979;San Sebastián de Buenavista;NA;NA
+3668992;49;1224529;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3668992;San Sebastián;NA;NA
+3669018;49;1224553;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669018;San Roque;NA;NA
+3669034;49;1224560;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669034;San Rafael;NA;NA
+3669085;49;1224597;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3669085;San Pelayo;NA;NA
+3669167;49;1224653;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3669167;San Pedro;NA;NA
+3669168;49;1224654;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669168;Municipio de San Pedro de los Milagros;NA;NA
+3669169;49;1224655;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3669169;San Pedro;NA;NA
+3669174;49;1224659;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3669174;San Pablo de Borbur;NA;NA
+3669217;49;1224687;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3669217;San Pablo;NA;NA
+3669219;49;1224689;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3669219;San Onofre;NA;NA
+3669239;49;1224703;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3669239;San Miguel de Sema;NA;NA
+3669294;49;1224746;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3669294;San Miguel;NA;NA
+3669314;49;1224756;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3669314;San Mateo;NA;NA
+3669317;49;1224759;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669317;San Martín de Loba;NA;NA
+3669334;49;1224773;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3669334;San Martín;NA;NA
+3669350;49;1224781;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3669350;San Marcos;NA;NA
+3669354;49;1224783;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3669354;San Luis de Palenque;NA;NA
+3669357;49;1224785;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3669357;San Luis de Gaceno;NA;NA
+3669407;49;1224827;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669407;San Luis;NA;NA
+3669408;49;1224828;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3669408;San Luis;NA;NA
+3669441;49;1224842;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3669441;San Lorenzo;NA;NA
+3669455;49;1224848;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669455;San Juan Nepomuceno;NA;NA
+3669465;49;1224857;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3669465;San Juan de Río Seco;NA;NA
+3669470;49;1224861;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3669470;San Juan del Cesar;NA;NA
+3669542;49;1224895;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3669542;San José de Pare;NA;NA
+3669546;49;1224899;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3669546;San José de Miranda;NA;NA
+3669550;49;1224903;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3669550;San José del Palmar;NA;NA
+3669559;49;1224911;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3669559;Isnos;NA;NA
+3669709;49;1225021;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3669709;San Joaquín;NA;NA
+3669722;49;1225029;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669722;San Jerónimo;NA;NA
+3669739;49;1225040;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669739;San Jacinto;NA;NA
+3669809;49;1225094;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3669809;San Gil;NA;NA
+3669885;49;1225148;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3669885;San Francisco;NA;NA
+3669903;49;1225163;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669903;San Fernando;NA;NA
+3669930;49;1225183;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669930;San Estanislao;NA;NA
+3669939;49;1225191;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3669939;Sandoná;NA;NA
+3669985;49;1225223;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3669985;San Cayetano;NA;NA
+3669986;49;1225224;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3669986;San Cayetano;NA;NA
+3670009;49;1225240;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670009;San Carlos;NA;NA
+3670010;49;1225241;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670010;San Carlos;NA;NA
+3670012;49;1225243;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3670012;San Calixto;NA;NA
+3670019;49;1225247;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670019;San Bernardo del Viento;NA;NA
+3670036;49;1225260;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3670036;San Bernardo;NA;NA
+3670039;49;1225263;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3670039;San Benito Abad;NA;NA
+3670044;49;1225268;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3670044;San Benito;NA;NA
+3670198;49;1225390;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3670198;San Antonio;NA;NA
+3670200;49;1225392;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670200;San Antero;NA;NA
+3670208;49;1225399;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670208;San Andrés Sotavento;NA;NA
+3670229;49;1225412;sub2;3686110;COL;Colombia;3670205;Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés;3670229;San Andrés;NA;NA
+3670230;49;1225413;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670230;San Andrés de Cuerquía;NA;NA
+3670231;49;1225414;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3670231;San Andrés;NA;NA
+3670266;49;1225437;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3670266;San Agustín;NA;NA
+3670282;49;1225446;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3670282;Sampués;NA;NA
+3670294;49;1225452;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3670294;Samaniego;NA;NA
+3670301;49;1225457;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3670301;Samaná;NA;NA
+3670304;49;1225459;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3670304;Samacá;NA;NA
+3670351;49;1225485;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670351;Salgar;NA;NA
+3670353;49;1225487;sub2;3686110;COL;Colombia;3671087;Quindío Department;3670353;Salento;NA;NA
+3670361;49;1225491;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3670361;Salazar;NA;NA
+3670371;49;1225498;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3670371;Salamina;NA;NA
+3670372;49;1225499;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3670372;Salamina;NA;NA
+3670384;49;1225502;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3670384;Saladoblanco;NA;NA
+3670420;49;1225510;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670420;Sahagún;NA;NA
+3670432;49;1225514;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3670432;Sáchica;NA;NA
+3670444;49;1225523;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3670444;Sácama;NA;NA
+3670448;49;1225525;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3670448;Saboyá;NA;NA
+3670507;49;1225567;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3670507;Sabanalarga;NA;NA
+3670508;49;1225568;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670508;Sabanalarga;NA;NA
+3670519;49;1225577;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3670519;Sabanagrande;NA;NA
+3670588;49;1225608;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3670588;Rovira;NA;NA
+3670596;49;1225615;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3670596;Rosas;NA;NA
+3670627;49;1225631;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3670627;Rondón;NA;NA
+3670630;49;1225634;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3670630;Roncesvalles;NA;NA
+3670645;49;1225642;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3670645;Roldanillo;NA;NA
+3670673;49;1225657;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3670673;La Paz;NA;NA
+3670681;49;1225660;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3670681;Roberto Payán;NA;NA
+3670693;49;1225666;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3670693;Rivera;NA;NA
+3670701;49;1225670;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3670701;Risaralda;NA;NA
+3670720;49;1225682;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3670720;Riosucio;NA;NA
+3670721;49;1225683;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3670721;Riosucio;NA;NA
+3670735;49;1225694;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3670735;Rionegro;NA;NA
+3670736;49;1225695;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670736;Rionegro;NA;NA
+3670747;49;1225702;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3670747;Riohacha;NA;NA
+3670755;49;1225709;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3670755;Riofrío;NA;NA
+3670757;49;1225711;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3670757;Río de Oro;NA;NA
+3670766;49;1225719;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3670766;Rioblanco;NA;NA
+3670818;49;1225750;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3670818;Chalán;NA;NA
+3670819;49;1225751;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3670819;Ricaurte;NA;NA
+3670853;49;1225765;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670853;Retiro;NA;NA
+3670859;49;1225771;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3670859;Restrepo;NA;NA
+3670860;49;1225772;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3670860;Restrepo;NA;NA
+3670876;49;1225783;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3670876;Repelón;NA;NA
+3670898;49;1225800;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3670898;Remolino;NA;NA
+3670900;49;1225802;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670900;Remedios;NA;NA
+3670935;49;1225815;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3670935;Recetor;NA;NA
+3670967;49;1225829;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3670967;Ráquira;NA;NA
+3671003;49;1225848;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3671003;Ramiriquí;NA;NA
+3671019;49;1225856;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3671019;Ragonvalia;NA;NA
+3671021;49;1225858;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671021;Apulo;NA;NA
+3671073;49;1225878;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671073;Quipile;NA;NA
+3671092;49;1225887;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3671092;Quinchía;NA;NA
+3671099;49;1225889;sub2;3686110;COL;Colombia;3671087;Quindío Department;3671099;Quimbaya;NA;NA
+3671117;49;1225899;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3671117;Quibdó;NA;NA
+3671120;49;1225901;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671120;Quetame;NA;NA
+3671164;49;1225922;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671164;Quebradanegra;NA;NA
+3671204;49;1225947;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3671204;Purísima;NA;NA
+3671209;49;1225949;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3671209;Purificación;NA;NA
+3671223;49;1225956;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3671223;Puracé;NA;NA
+3671229;49;1225960;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3671229;Pupiales;NA;NA
+3671280;49;1225992;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671280;Pulí;NA;NA
+3671289;49;1225999;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3671289;Puerto Wilches;NA;NA
+3671316;49;1226026;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3671316;Puerto Tejada;NA;NA
+3671331;49;1226040;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671331;Puerto Salgar;NA;NA
+3671422;49;1226123;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3671422;Puerto López;NA;NA
+3671425;49;1226126;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3671425;Puerto Lleras;NA;NA
+3671471;49;1226167;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3671471;Puerto Escondido;NA;NA
+3671506;49;1226200;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3671506;Puerto Colombia;NA;NA
+3671533;49;1226226;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3671533;Puerto Boyacá;NA;NA
+3671541;49;1226234;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3671541;Puerto Berrío;NA;NA
+3671578;49;1226270;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3671578;Puerres;NA;NA
+3671592;49;1226279;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3671592;Puente Nacional;NA;NA
+3671628;49;1226308;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3671628;Puebloviejo;NA;NA
+3671632;49;1226312;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3671632;Pueblorrico;NA;NA
+3671635;49;1226315;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3671635;Pueblo Rico;NA;NA
+3671664;49;1226344;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3671664;Pueblo Nuevo;NA;NA
+3671718;49;1226384;sub2;3686110;COL;Colombia;3670205;Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés;3671718;Providencia;NA;NA
+3671766;49;1226415;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3671766;Prado;NA;NA
+3671773;49;1226420;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3671773;Pradera;NA;NA
+3671849;49;1226478;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3671849;Potosí;NA;NA
+3671904;49;1226512;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3671904;Pore;NA;NA
+3671917;49;1226520;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3671917;Popayán;NA;NA
+3671951;49;1226537;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3671951;Polonuevo;NA;NA
+3672032;49;1226584;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3672032;Plato;NA;NA
+3672069;49;1226601;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3672069;Planeta Rica;NA;NA
+3672078;49;1226609;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3672078;Planadas;NA;NA
+3672094;49;1226618;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3672094;Pivijay;NA;NA
+3672111;49;1226627;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3672111;Pitalito;NA;NA
+3672124;49;1226631;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3672124;Pital;NA;NA
+3672144;49;1226640;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672144;Pisba;NA;NA
+3672177;49;1226656;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3672177;Piojó;NA;NA
+3672205;49;1226673;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3672205;Pinchote;NA;NA
+3672256;49;1226697;sub2;3686110;COL;Colombia;3671087;Quindío Department;3672256;Pijao;NA;NA
+3672262;49;1226700;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3672262;Piendamó;NA;NA
+3672292;49;1226709;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3672292;Piedras;NA;NA
+3672331;49;1226727;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3672331;Piedecuesta;NA;NA
+3672430;49;1226768;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672430;Pesca;NA;NA
+3672487;49;1226789;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3672487;Pereira;NA;NA
+3672513;49;1226800;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3672513;Peque;NA;NA
+3672524;49;1226807;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3672524;Pensilvania;NA;NA
+3672541;49;1226819;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3672541;Peñol;NA;NA
+3672634;49;1226851;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3672634;Pedraza;NA;NA
+3672652;49;1226857;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672652;Paz de Río;NA;NA
+3672655;49;1226859;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3672655;Paz de Ariporo;NA;NA
+3672667;49;1226867;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3672667;Magüi;NA;NA
+3672670;49;1226869;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672670;Paya;NA;NA
+3672699;49;1226883;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672699;Pauna;NA;NA
+3672762;49;1226919;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3672762;Patía;NA;NA
+3672779;49;1226925;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3672779;Pasto;NA;NA
+3672814;49;1226952;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3672814;Pasca;NA;NA
+3672900;49;1227005;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3672900;Páramo;NA;NA
+3672982;49;1227054;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672982;Panqueba;NA;NA
+3672998;49;1227063;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3672998;Pandi;NA;NA
+3673042;49;1227079;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3673042;Pamplonita;NA;NA
+3673046;49;1227082;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3673046;Pamplona;NA;NA
+3673097;49;1227116;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3673097;Pinillos;NA;NA
+3673144;49;1227147;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3673144;Palmito;NA;NA
+3673165;49;1227165;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3673165;Palmira;NA;NA
+3673191;49;1227182;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3673191;Palmas del Socorro;NA;NA
+3673221;49;1227204;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3673221;Palmar de Varela;NA;NA
+3673242;49;1227213;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3673242;Palmar;NA;NA
+3673276;49;1227235;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3673276;Palestina;NA;NA
+3673290;49;1227246;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3673290;Palermo;NA;NA
+3673353;49;1227279;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673353;Pajarito;NA;NA
+3673371;49;1227287;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673371;Paipa;NA;NA
+3673373;49;1227289;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673373;Paime;NA;NA
+3673387;49;1227295;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3673387;Paicol;NA;NA
+3673399;49;1227304;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3673399;Paez;NA;NA
+3673408;49;1227311;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3673408;Padilla;NA;NA
+3673414;49;1227313;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3673414;Pácora;NA;NA
+3673425;49;1227322;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673425;Pacho;NA;NA
+3673432;49;1227326;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673432;Pachavita;NA;NA
+3673457;49;1227333;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3673457;Ovejas;NA;NA
+3673476;49;1227341;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673476;Otanche;NA;NA
+3673483;49;1227346;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3673483;Ospina;NA;NA
+3673514;49;1227353;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3673514;Ortega;NA;NA
+3673538;49;1227365;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3673538;Orocué;NA;NA
+3673579;49;1227385;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3673579;Oporapa;NA;NA
+3673591;49;1227389;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3673591;Onzaga;NA;NA
+3673617;49;1227408;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3673617;Olaya;NA;NA
+3673638;49;1227419;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3673638;Oiba;NA;NA
+3673663;49;1227429;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3673663;Ocaña;NA;NA
+3673665;49;1227431;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3673665;Ocamonte;NA;NA
+3673678;49;1227440;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3673678;Obando;NA;NA
+3673691;49;1227445;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3673691;Nuquí;NA;NA
+3673697;49;1227448;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3673697;Nunchía;NA;NA
+3673731;49;1227476;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673731;Nuevo Colón;NA;NA
+3673784;49;1227514;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3673784;Nóvita;NA;NA
+3673827;49;1227542;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673827;Nocaima;NA;NA
+3673830;49;1227545;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673830;Nobsa;NA;NA
+3673846;49;1227551;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673846;Nimaima;NA;NA
+3673850;49;1227553;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673850;Nilo;NA;NA
+3673888;49;1227567;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673888;Nemocón;NA;NA
+3673900;49;1227572;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3673900;Neiva;NA;NA
+3673904;49;1227576;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3673904;Neira;NA;NA
+3674011;49;1227602;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3674011;Natagaima;NA;NA
+3674013;49;1227604;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3674013;Nátaga;NA;NA
+3674032;49;1227617;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3674032;Nariño;NA;NA
+3674033;49;1227618;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3674033;Nariño;NA;NA
+3674122;49;1227654;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674122;Muzo;NA;NA
+3674126;49;1227657;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3674126;Mutiscua;NA;NA
+3674131;49;1227659;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3674131;Mutatá;NA;NA
+3674162;49;1227672;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3674162;Murindó;NA;NA
+3674295;49;1227720;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3674295;Mosquera;NA;NA
+3674296;49;1227721;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3674296;Mosquera;NA;NA
+3674338;49;1227742;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3674338;Morroa;NA;NA
+3674414;49;1227780;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3674414;Morales;NA;NA
+3674415;49;1227781;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3674415;Morales;NA;NA
+3674446;49;1227802;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3674446;Monterrey;NA;NA
+3674454;49;1227809;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3674454;Montería;NA;NA
+3674464;49;1227816;sub2;3686110;COL;Colombia;3671087;Quindío Department;3674464;Montenegro;NA;NA
+3674471;49;1227823;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3674471;Montelíbano;NA;NA
+3674520;49;1227860;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3674520;Montebello;NA;NA
+3674528;49;1227866;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;3674528;La Montañita;NA;NA
+3674574;49;1227890;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674574;Moniquirá;NA;NA
+3674578;49;1227894;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674578;Monguí;NA;NA
+3674581;49;1227897;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674581;Mongua;NA;NA
+3674600;49;1227908;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3674600;Mompós;NA;NA
+3674619;49;1227917;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3674619;Molagavita;NA;NA
+3674641;49;1227927;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3674641;Mogotes;NA;NA
+3674655;49;1227937;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;3674655;Mocoa;NA;NA
+3674679;49;1227946;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3674679;Mistrató;NA;NA
+3674703;49;1227959;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3674703;Miranda;NA;NA
+3674743;49;1227983;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674743;Miraflores;NA;NA
+3674852;49;1228039;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3674852;Mercaderes;NA;NA
+3674886;49;1228057;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3674886;Melgar;NA;NA
+3674933;49;1228077;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3674933;Medina;NA;NA
+3674954;49;1228092;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3674954;Medellín;NA;NA
+3675119;49;1228168;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3675119;Matanza;NA;NA
+3675192;49;1228211;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3675192;Marulanda;NA;NA
+3675214;49;1228231;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3675214;Marsella;NA;NA
+3675235;49;1228240;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3675235;Marquetalia;NA;NA
+3675245;49;1228246;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3675245;Marmato;NA;NA
+3675253;49;1228251;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3675253;Municipio de San Sebastián de Mariquita;NA;NA
+3675256;49;1228253;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3675256;Maripí;NA;NA
+3675265;49;1228260;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3675265;Marinilla;NA;NA
+3675288;49;1228271;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675288;Municipio de María la Baja;NA;NA
+3675307;49;1228279;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675307;Margarita;NA;NA
+3675412;49;1228337;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3675412;Manzanares;NA;NA
+3675433;49;1228348;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3675433;Manta;NA;NA
+3675444;49;1228354;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3675444;Manizales;NA;NA
+3675454;49;1228360;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3675454;Maní;NA;NA
+3675514;49;1228383;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3675514;Manatí;NA;NA
+3675578;49;1228412;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3675578;Mallama;NA;NA
+3675597;49;1228424;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3675597;Malambo;NA;NA
+3675606;49;1228430;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3675606;Málaga;NA;NA
+3675640;49;1228449;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3675640;Majagual;NA;NA
+3675659;49;1228460;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3675659;Maicao;NA;NA
+3675666;49;1228465;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675666;Mahates;NA;NA
+3675695;49;1228477;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675695;Magangué;NA;NA
+3675708;49;1228485;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3675708;Madrid;NA;NA
+3675758;49;1228508;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3675758;Macheta;NA;NA
+3675769;49;1228513;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3675769;Maceo;NA;NA
+3675781;49;1228522;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3675781;Macaravita;NA;NA
+3675793;49;1228530;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3675793;Macanal;NA;NA
+3675827;49;1228550;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3675827;Luruaco;NA;NA
+3675858;49;1228569;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3675858;Lourdes;NA;NA
+3675909;49;1228601;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3675909;Los Santos;NA;NA
+3676357;49;1228900;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3676357;Los Andes;NA;NA
+3676400;49;1228930;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3676400;Lorica;NA;NA
+3676418;49;1228940;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3676418;Municipio de López de Micay;NA;NA
+3676478;49;1228986;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3676478;Lloró;NA;NA
+3676541;49;1229022;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3676541;Linares;NA;NA
+3676592;49;1229043;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3676592;Liborina;NA;NA
+3676606;49;1229056;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3676606;Líbano;NA;NA
+3676628;49;1229075;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3676628;Lérida;NA;NA
+3676645;49;1229081;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3676645;Lenguazaque;NA;NA
+3676662;49;1229087;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3676662;Villa de Leyva;NA;NA
+3676675;49;1229095;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3676675;Lebríja;NA;NA
+3676723;49;1229125;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3676723;La Virginia;NA;NA
+3676870;49;1229231;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3676870;La Vega;NA;NA
+3676871;49;1229232;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3676871;La Vega;NA;NA
+3676885;49;1229239;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3676885;La Uvita;NA;NA
+3676936;49;1229281;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3676936;La Unión;NA;NA
+3676937;49;1229282;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3676937;La Unión;NA;NA
+3676938;49;1229283;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3676938;La Unión;NA;NA
+3677011;49;1229326;sub2;3686110;COL;Colombia;3671087;Quindío Department;3677011;La Tebaida;NA;NA
+3677458;49;1229645;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3677458;La Sierra;NA;NA
+3678089;49;1230056;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3678089;La Playa;NA;NA
+3678098;49;1230061;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3678098;La Plata;NA;NA
+3678169;49;1230107;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3678169;La Peña;NA;NA
+3678194;49;1230126;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3678194;La Paz;NA;NA
+3678287;49;1230191;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3678287;La Palma;NA;NA
+3678411;49;1230277;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3678411;La Mesa;NA;NA
+3678913;49;1230640;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3678913;La Gloria;NA;NA
+3679009;49;1230716;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3679009;La Florida;NA;NA
+3679071;49;1230764;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3679071;La Estrella;NA;NA
+3679279;49;1230931;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3679279;La Dorada;NA;NA
+3679319;49;1230960;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3679319;La Cumbre;NA;NA
+3679381;49;1230995;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3679381;La Cruz;NA;NA
+3679543;49;1231111;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3679543;La Celia;NA;NA
+3679555;49;1231121;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3679555;La Ceja;NA;NA
+3679629;49;1231174;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3679629;La Capilla;NA;NA
+3679663;49;1231201;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3679663;La Calera;NA;NA
+3679717;49;1231243;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3679717;Labranzagrande;NA;NA
+3679781;49;1231288;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3679781;Labateca;NA;NA
+3679855;49;1231342;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3679855;La Argentina;NA;NA
+3679928;49;1231394;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3679928;Aguada;NA;NA
+3680091;49;1231514;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3680091;Juradó;NA;NA
+3680116;49;1231532;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3680116;Junín;NA;NA
+3680177;49;1231562;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3680177;Juan de Acosta;NA;NA
+3680237;49;1231599;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3680237;Jordán;NA;NA
+3680298;49;1231628;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3680298;Jesús María;NA;NA
+3680310;49;1231637;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3680310;Jerusalén;NA;NA
+3680319;49;1231642;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3680319;Jericó;NA;NA
+3680320;49;1231643;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680320;Jericó;NA;NA
+3680336;49;1231656;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3680336;Jenesano;NA;NA
+3680367;49;1231677;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680367;Jardín;NA;NA
+3680388;49;1231688;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3680388;Jamundí;NA;NA
+3680394;49;1231691;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3680394;Jambaló;NA;NA
+3680427;49;1231712;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3680427;Iza;NA;NA
+3680435;49;1231718;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680435;Ituango;NA;NA
+3680451;49;1231725;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680451;Itagui;NA;NA
+3680454;49;1231728;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3680454;Istmina;NA;NA
+3680532;49;1231768;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3680532;Municipio de Íquira;NA;NA
+3680540;49;1231774;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3680540;Ipiales;NA;NA
+3680555;49;1231781;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3680555;Inzá;NA;NA
+3680602;49;1231803;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3680602;Imués;NA;NA
+3680617;49;1231808;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3680617;Iles;NA;NA
+3680642;49;1231817;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3680642;Icononzo;NA;NA
+3680657;49;1231829;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3680657;Ibagué;NA;NA
+3680841;49;1231918;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3680841;Honda;NA;NA
+3680855;49;1231928;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3680855;Hobo;NA;NA
+3680887;49;1231948;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3680887;Herrán;NA;NA
+3680903;49;1231958;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680903;Heliconia;NA;NA
+3681010;49;1232007;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3681010;Hato Corozal;NA;NA
+3681027;49;1232013;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3681027;Hato;NA;NA
+3681169;49;1232136;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3681169;Hacarí;NA;NA
+3681177;49;1232139;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681177;Gutiérrez;NA;NA
+3681223;49;1232159;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3681223;Güicán;NA;NA
+3681235;49;1232162;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3681235;Güepsa;NA;NA
+3681256;49;1232172;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3681256;Guayatá;NA;NA
+3681307;49;1232197;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681307;Guayabal de Siquima;NA;NA
+3681347;49;1232227;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3681347;Guavatá;NA;NA
+3681354;49;1232230;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3681354;Guática;NA;NA
+3681357;49;1232233;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3681357;Guateque;NA;NA
+3681361;49;1232236;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681361;Guatavita;NA;NA
+3681365;49;1232240;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681365;Guataquí;NA;NA
+3681369;49;1232242;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3681369;Guatapé;NA;NA
+3681405;49;1232262;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681405;Guasca;NA;NA
+3681430;49;1232272;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3681430;Guarne;NA;NA
+3681492;49;1232298;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3681492;Guapotá;NA;NA
+3681506;49;1232301;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3681506;Guapi;NA;NA
+3681564;49;1232321;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3681564;Guamo;NA;NA
+3681606;49;1232345;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3681606;Guamal;NA;NA
+3681607;49;1232346;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3681607;Guamal;NA;NA
+3681620;49;1232355;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3681620;Gualmatán;NA;NA
+3681645;49;1232364;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3681645;Guaitarilla;NA;NA
+3681703;49;1232392;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681703;Guaduas;NA;NA
+3681734;49;1232412;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3681734;Guadalupe;NA;NA
+3681735;49;1232413;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3681735;Guadalupe;NA;NA
+3681757;49;1232430;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3681757;Guachucal;NA;NA
+3681768;49;1232435;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681768;Guachetá;NA;NA
+3681798;49;1232450;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3681798;Guacarí;NA;NA
+3681815;49;1232460;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3681815;Guacamayas;NA;NA
+3681833;49;1232468;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3681833;Guaca;NA;NA
+3681961;49;1232496;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3681961;Granada;NA;NA
+3681968;49;1232502;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3681968;Gramalote;NA;NA
+3681991;49;1232512;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3681991;González;NA;NA
+3681998;49;1232516;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3681998;Gómez Plata;NA;NA
+3682019;49;1232526;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3682019;Girón;NA;NA
+3682023;49;1232530;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682023;Girardota;NA;NA
+3682029;49;1232533;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682029;Girardot;NA;NA
+3682031;49;1232535;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682031;Giraldo;NA;NA
+3682040;49;1232543;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3682040;Ginebra;NA;NA
+3682048;49;1232546;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3682048;Gigante;NA;NA
+3682071;49;1232564;sub2;3686110;COL;Colombia;3671087;Quindío Department;3682071;Génova;NA;NA
+3682109;49;1232578;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3682109;Garzón;NA;NA
+3682161;49;1232602;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3682161;Garagoa;NA;NA
+3682173;49;1232607;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3682173;Gameza;NA;NA
+3682179;49;1232612;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3682179;Gambita;NA;NA
+3682184;49;1232614;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3682184;Gamarra;NA;NA
+3682186;49;1232616;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682186;Gama;NA;NA
+3682239;49;1232642;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3682239;Galapa;NA;NA
+3682244;49;1232647;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3682244;Galán;NA;NA
+3682259;49;1232653;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682259;Gachetá;NA;NA
+3682261;49;1232655;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3682261;Gachantivá;NA;NA
+3682263;49;1232657;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682263;Gachancipá;NA;NA
+3682267;49;1232659;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682267;Gachala;NA;NA
+3682275;49;1232665;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682275;Fusagasugá;NA;NA
+3682280;49;1232667;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682280;Fúquene;NA;NA
+3682282;49;1232669;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682282;Funza;NA;NA
+3682284;49;1232671;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3682284;Funes;NA;NA
+3682289;49;1232673;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3682289;Fundación;NA;NA
+3682314;49;1232685;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682314;Frontino;NA;NA
+3682331;49;1232689;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3682331;Fresno;NA;NA
+3682333;49;1232690;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682333;Fredonia;NA;NA
+3682359;49;1232704;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682359;Fosca;NA;NA
+3682376;49;1232714;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3682376;Fonseca;NA;NA
+3682381;49;1232718;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682381;Fomeque;NA;NA
+3682386;49;1232721;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3682386;Floridablanca;NA;NA
+3682394;49;1232728;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3682394;Florida;NA;NA
+3682401;49;1232734;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3682401;Floresta;NA;NA
+3682428;49;1232758;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;3682428;Florencia;NA;NA
+3682459;49;1232776;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3682459;Flandes;NA;NA
+3682466;49;1232780;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3682466;Firavitoba;NA;NA
+3682475;49;1232787;sub2;3686110;COL;Colombia;3671087;Quindío Department;3682475;Filandia;NA;NA
+3682482;49;1232793;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3682482;Filadelfia;NA;NA
+3682511;49;1232809;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3682511;Falan;NA;NA
+3682517;49;1232813;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682517;Facatativá;NA;NA
+3682574;49;1232842;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3682574;Espinal;NA;NA
+3682632;49;1232871;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682632;Envigado;NA;NA
+3682634;49;1232873;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682634;Entrerrios;NA;NA
+3682655;49;1232887;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3682655;Enciso;NA;NA
+3682657;49;1232889;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3682657;Encino;NA;NA
+3682683;49;1232900;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3682683;El Zulia;NA;NA
+3682966;49;1233092;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3682966;El Tambo;NA;NA
+3682967;49;1233093;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3682967;El Tambo;NA;NA
+3682983;49;1233107;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3682983;El Tablón de Gómez;NA;NA
+3683153;49;1233242;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3683153;El Rosario;NA;NA
+3683465;49;1233488;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3683465;El Piñon;NA;NA
+3683506;49;1233522;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3683506;El Peñón;NA;NA
+3684030;49;1233919;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3684030;Elías;NA;NA
+3684120;49;1233998;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3684120;El Guamo;NA;NA
+3684133;49;1234008;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3684133;El Guacamayo;NA;NA
+3684192;49;1234045;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3684192;El Espino;NA;NA
+3684267;49;1234104;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3684267;El Dovio;NA;NA
+3684506;49;1234291;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3684506;El Colegio;NA;NA
+3684511;49;1234295;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3684511;El Cocuy;NA;NA
+3684581;49;1234346;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3684581;El Charco;NA;NA
+3684616;49;1234374;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3684616;El Cerrito;NA;NA
+3684667;49;1234415;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3684667;El Carmen de Bolívar;NA;NA
+3684711;49;1234455;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3684711;El Carmen;NA;NA
+3684712;49;1234456;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3684712;El Carmen de Atrato;NA;NA
+3684771;49;1234498;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3684771;El Calvario;NA;NA
+3684790;49;1234516;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3684790;El Cairo;NA;NA
+3684928;49;1234621;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3684928;El Banco;NA;NA
+3685028;49;1234696;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3685028;El Águila;NA;NA
+3685059;49;1234718;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685059;Ebéjico;NA;NA
+3685071;49;1234725;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3685071;Durania;NA;NA
+3685085;49;1234729;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685085;Duitama;NA;NA
+3685127;49;1234745;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685127;Don Matías;NA;NA
+3685179;49;1234765;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3685179;Dolores;NA;NA
+3685293;49;1234827;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3685293;Dagua;NA;NA
+3685297;49;1234831;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685297;Dabeiba;NA;NA
+3685346;49;1234840;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3685346;Curití;NA;NA
+3685419;49;1234867;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3685419;Cunday;NA;NA
+3685433;49;1234874;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3685433;Cumbal;NA;NA
+3685446;49;1234882;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3685446;Cumaral;NA;NA
+3685483;49;1234903;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685483;Cuítiva;NA;NA
+3685530;49;1234919;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3685530;Cucutilla;NA;NA
+3685534;49;1234921;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3685534;Cúcuta;NA;NA
+3685541;49;1234925;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3685541;Cucunubá;NA;NA
+3685572;49;1234941;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685572;Cubará;NA;NA
+3685615;49;1234973;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3685615;Cuaspud;NA;NA
+3685709;49;1235014;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3685709;Coyaima;NA;NA
+3685715;49;1235018;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685715;Covarachía;NA;NA
+3685734;49;1235028;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3685734;Cota;NA;NA
+3685795;49;1235063;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685795;Corrales;NA;NA
+3685831;49;1235084;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3685831;Corozal;NA;NA
+3685841;49;1235088;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3685841;Coromoro;NA;NA
+3685873;49;1235106;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3685873;Corinto;NA;NA
+3685904;49;1235123;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3685904;Córdoba;NA;NA
+3685905;49;1235124;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3685905;Córdoba;NA;NA
+3685944;49;1235141;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685944;Coper;NA;NA
+3685950;49;1235144;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685950;Copacabana;NA;NA
+3685957;49;1235150;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3685957;Convención;NA;NA
+3685962;49;1235155;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3685962;Contratación;NA;NA
+3685975;49;1235163;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3685975;Contadero;NA;NA
+3685985;49;1235165;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3685985;Consaca;NA;NA
+3685996;49;1235170;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3685996;Confines;NA;NA
+3686003;49;1235174;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3686003;Condoto;NA;NA
+3686016;49;1235183;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686016;Concordia;NA;NA
+3686033;49;1235191;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686033;Concepción;NA;NA
+3686034;49;1235192;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686034;Concepción;NA;NA
+3686053;49;1235201;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686053;Cómbita;NA;NA
+3686108;49;1235231;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3686108;Colón;NA;NA
+3686121;49;1235243;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3686121;Colombia;NA;NA
+3686135;49;1235251;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686135;Cogua;NA;NA
+3686143;49;1235255;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3686143;Coello;NA;NA
+3686159;49;1235265;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686159;Cocorná;NA;NA
+3686229;49;1235297;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686229;Cisneros;NA;NA
+3686234;49;1235301;sub2;3686110;COL;Colombia;3671087;Quindío Department;3686234;Circasia;NA;NA
+3686273;49;1235325;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686273;Ciénaga de Oro;NA;NA
+3686276;49;1235326;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3686276;Ciénaga;NA;NA
+3686280;49;1235329;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686280;Ciénega;NA;NA
+3686294;49;1235337;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3686294;Caicedonia;NA;NA
+3686423;49;1235390;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686423;Chocontá;NA;NA
+3686442;49;1235399;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686442;Choachí;NA;NA
+3686455;49;1235405;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686455;Chitaraque;NA;NA
+3686461;49;1235407;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3686461;Chitagá;NA;NA
+3686466;49;1235410;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686466;Chita;NA;NA
+3686472;49;1235414;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686472;Chiscas;NA;NA
+3686481;49;1235417;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3686481;Chiriguaná;NA;NA
+3686515;49;1235429;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686515;Chiquinquirá;NA;NA
+3686531;49;1235434;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686531;Chipatá;NA;NA
+3686533;49;1235436;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686533;Chipaque;NA;NA
+3686541;49;1235442;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686541;Chinú;NA;NA
+3686562;49;1235450;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3686562;Chinchiná;NA;NA
+3686571;49;1235453;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686571;Chinavita;NA;NA
+3686575;49;1235456;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3686575;Chinácota;NA;NA
+3686586;49;1235459;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3686586;Chimichagua;NA;NA
+3686607;49;1235470;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686607;Chimá;NA;NA
+3686608;49;1235471;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686608;Chima;NA;NA
+3686637;49;1235481;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686637;Chigorodó;NA;NA
+3686677;49;1235493;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686677;Chía;NA;NA
+3686713;49;1235516;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686713;Charta;NA;NA
+3686738;49;1235531;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686738;Charalá;NA;NA
+3686794;49;1235568;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3686794;Chaparral;NA;NA
+3686820;49;1235585;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3686820;Chameza;NA;NA
+3686852;49;1235603;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686852;Chaguaní;NA;NA
+3686895;49;1235626;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3686895;Cerro San Antonio;NA;NA
+3686909;49;1235635;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686909;Cerrito;NA;NA
+3686919;49;1235640;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686919;Cerinza;NA;NA
+3686923;49;1235642;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686923;Cereté;NA;NA
+3686926;49;1235645;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3686926;Cepitá;NA;NA
+3687026;49;1235702;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687026;Caucasia;NA;NA
+3687085;49;1235736;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3687085;Castilla la Nueva;NA;NA
+3687214;49;1235829;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3687214;Casabianca;NA;NA
+3687232;49;1235839;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687232;Cartago;NA;NA
+3687247;49;1235849;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3687247;Municipio de Cartagena de Indias;NA;NA
+3687311;49;1235898;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687311;Carolina;NA;NA
+3687322;49;1235905;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3687322;Carmen de Carupa;NA;NA
+3687325;49;1235907;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3687325;Carmen de Apicalá;NA;NA
+3687395;49;1235934;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3687395;Carcasí;NA;NA
+3687428;49;1235951;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687428;Caramanta;NA;NA
+3687477;49;1235978;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3687477;Caqueza;NA;NA
+3687491;49;1235989;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3687491;Capitanejo;NA;NA
+3687506;49;1235995;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3687506;Caparrapí;NA;NA
+3687646;49;1236071;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3687646;Candelaria;NA;NA
+3687647;49;1236072;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687647;Candelaria;NA;NA
+3687679;49;1236091;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687679;Cañasgordas;NA;NA
+3687753;49;1236129;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3687753;Campohermoso;NA;NA
+3687759;49;1236134;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3687759;Campo de La Cruz;NA;NA
+3687808;49;1236173;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3687808;Campoalegre;NA;NA
+3687840;49;1236195;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687840;Campamento;NA;NA
+3687881;49;1236219;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3687881;Caloto;NA;NA
+3687908;49;1236239;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687908;Calima;NA;NA
+3687919;49;1236250;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3687919;California;NA;NA
+3687926;49;1236255;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687926;Cali;NA;NA
+3687934;49;1236258;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3687934;Caldono;NA;NA
+3687954;49;1236272;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687954;Caldas;NA;NA
+3687955;49;1236273;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3687955;Caldas;NA;NA
+3687965;49;1236277;sub2;3686110;COL;Colombia;3671087;Quindío Department;3687965;Calarca;NA;NA
+3687977;49;1236285;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3687977;Calamar;NA;NA
+3688007;49;1236300;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3688007;Cajicá;NA;NA
+3688010;49;1236302;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3688010;Cajibío;NA;NA
+3688022;49;1236310;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3688022;Cajamarca;NA;NA
+3688031;49;1236315;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;3688031;Caimito;NA;NA
+3688073;49;1236332;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688073;Caicedo;NA;NA
+3688088;49;1236336;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3688088;Cácota;NA;NA
+3688108;49;1236346;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3688108;Cachirá;NA;NA
+3688130;49;1236357;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688130;Cáceres;NA;NA
+3688173;49;1236380;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3688173;Cabrera;NA;NA
+3688215;49;1236399;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688215;Busbanzá;NA;NA
+3688226;49;1236403;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688226;Buriticá;NA;NA
+3688255;49;1236415;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3688255;Bugalagrande;NA;NA
+3688267;49;1236421;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3688267;Buesaco;NA;NA
+3688360;49;1236496;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3688360;Buenos Aires;NA;NA
+3688364;49;1236498;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688364;Buenavista;NA;NA
+3688463;49;1236576;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3688463;Bucarasica;NA;NA
+3688467;49;1236579;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3688467;Bucaramanga;NA;NA
+3688505;49;1236604;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688505;Briceño;NA;NA
+3688543;49;1236625;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688543;Boyacá;NA;NA
+3688666;49;1236693;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3688666;Bolívar;NA;NA
+3688668;49;1236694;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3688668;Bolívar;NA;NA
+3688669;49;1236695;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3688669;Bolívar;NA;NA
+3688672;49;1236696;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3688672;Bojaya;NA;NA
+3688674;49;1236698;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3688674;Bojacá;NA;NA
+3688707;49;1236719;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3688707;Bochalema;NA;NA
+3688776;49;1236773;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688776;Boavita;NA;NA
+3688812;49;1236778;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3688812;Bituima;NA;NA
+3688842;49;1236796;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3688842;Betulia;NA;NA
+3688843;49;1236797;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688843;Betulia;NA;NA
+3688847;49;1236800;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688847;Betéitiva;NA;NA
+3688865;49;1236816;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688865;Betania;NA;NA
+3688910;49;1236851;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3688910;Berbeo;NA;NA
+3688919;49;1236856;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3688919;Beltrán;NA;NA
+3688924;49;1236859;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688924;Belmira;NA;NA
+3688929;49;1236861;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688929;Bello;NA;NA
+3688990;49;1236915;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3688990;Belén de Umbría;NA;NA
+3688992;49;1236917;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;3688992;Belén de Los Andaquies;NA;NA
+3689007;49;1236932;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3689007;Belén;NA;NA
+3689013;49;1236936;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3689013;Belalcázar;NA;NA
+3689152;49;1237004;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3689152;Barranquilla;NA;NA
+3689158;49;1237008;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3689158;Barranco de Loba;NA;NA
+3689165;49;1237015;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;3689165;Barrancas;NA;NA
+3689170;49;1237020;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3689170;Barrancabermeja;NA;NA
+3689188;49;1237033;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3689188;Barichara;NA;NA
+3689207;49;1237044;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689207;Barbosa;NA;NA
+3689208;49;1237045;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3689208;Barbosa;NA;NA
+3689229;49;1237057;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3689229;Barbacoas;NA;NA
+3689234;49;1237062;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3689234;Baraya;NA;NA
+3689237;49;1237065;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;3689237;Baranoa;NA;NA
+3689293;49;1237101;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3689293;Balboa;NA;NA
+3689294;49;1237102;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3689294;Balboa;NA;NA
+3689318;49;1237122;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3689318;Bajo Baudó;NA;NA
+3689337;49;1237134;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3689337;Bagadó;NA;NA
+3689382;49;1237149;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;3689382;Ayapel;NA;NA
+3689451;49;1237184;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3689451;Ataco;NA;NA
+3689552;49;1237243;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3689552;Armero;NA;NA
+3689562;49;1237252;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689562;Armenia;NA;NA
+3689563;49;1237253;sub2;3686110;COL;Colombia;3671087;Quindío Department;3689563;Armenia;NA;NA
+3689572;49;1237258;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3689572;Arjona;NA;NA
+3689618;49;1237285;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3689618;Argelia;NA;NA
+3689619;49;1237286;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3689619;Argelia;NA;NA
+3689690;49;1237317;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3689690;Arcabuco;NA;NA
+3689694;49;1237320;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689694;Arboletes;NA;NA
+3689698;49;1237322;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3689698;Arboledas;NA;NA
+3689706;49;1237328;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3689706;Arboleda;NA;NA
+3689710;49;1237332;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3689710;Arbeláez;NA;NA
+3689720;49;1237342;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;3689720;Arauca;NA;NA
+3689724;49;1237346;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3689724;Aratoca;NA;NA
+3689741;49;1237354;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3689741;Aranzazu;NA;NA
+3689761;49;1237364;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3689761;Aracataca;NA;NA
+3689772;49;1237375;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3689772;Aquitania;NA;NA
+3689794;49;1237384;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;3689794;Apía;NA;NA
+3689803;49;1237390;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3689803;Anzoátegui;NA;NA
+3689805;49;1237392;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689805;Anza;NA;NA
+3689819;49;1237403;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689819;Santafé de Antioquia;NA;NA
+3689832;49;1237410;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3689832;Ansermanuevo;NA;NA
+3689834;49;1237412;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3689834;Anserma;NA;NA
+3689839;49;1237415;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689839;Anorí;NA;NA
+3689842;49;1237418;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3689842;Anolaima;NA;NA
+3689875;49;1237432;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689875;Angostura;NA;NA
+3689878;49;1237435;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689878;Angelópolis;NA;NA
+3689900;49;1237444;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689900;Andes;NA;NA
+3689907;49;1237451;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3689907;Andalucía;NA;NA
+3689916;49;1237455;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3689916;Ancuyá;NA;NA
+3689942;49;1237460;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3689942;Anapoima;NA;NA
+3689980;49;1237480;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3689980;Ambalema;NA;NA
+3690011;49;1237492;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690011;Amalfi;NA;NA
+3690020;49;1237499;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690020;Amagá;NA;NA
+3690031;49;1237505;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3690031;Alvarado;NA;NA
+3690070;49;1237538;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3690070;Alto Baudo;NA;NA
+3690104;49;1237565;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3690104;Altamira;NA;NA
+3690125;49;1237581;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;3690125;Alpujarra;NA;NA
+3690135;49;1237586;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;3690135;Almeida;NA;NA
+3690137;49;1237588;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;3690137;Almaguer;NA;NA
+3690161;49;1237601;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3690161;Algeciras;NA;NA
+3690173;49;1237604;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;3690173;Algarrobo;NA;NA
+3690217;49;1237640;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690217;Alejandría;NA;NA
+3690227;49;1237647;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3690227;Aldana;NA;NA
+3690238;49;1237654;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3690238;Alcalá;NA;NA
+3690263;49;1237671;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;3690263;Albania;NA;NA
+3690267;49;1237675;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3690267;Albán;NA;NA
+3690268;49;1237676;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;3690268;Albán;NA;NA
+3690288;49;1237683;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3690288;Aipe;NA;NA
+3690298;49;1237690;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3690298;Agustín Codazzi;NA;NA
+3690317;49;1237698;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;3690317;Aguazul;NA;NA
+3690430;49;1237744;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3690430;Agua de Dios;NA;NA
+3690432;49;1237746;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;3690432;Aguadas;NA;NA
+3690466;49;1237761;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;3690466;Aguachica;NA;NA
+3690521;49;1237782;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3690521;Agrado;NA;NA
+3690550;49;1237797;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;3690550;Achí;NA;NA
+3690553;49;1237799;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;3690553;Acevedo;NA;NA
+3690573;49;1237804;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;3690573;Acandí;NA;NA
+3690578;49;1237806;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;3690578;Acacías;NA;NA
+3690583;49;1237809;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690583;Abriaquí;NA;NA
+3690586;49;1237812;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3690586;Abrego;NA;NA
+3690593;49;1237816;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690593;Abejorral;NA;NA
+6194448;49;1250263;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;6194448;Arauquita;NA;NA
+6194449;49;1250264;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;6194449;Fortul;NA;NA
+6194450;49;1250265;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;6194450;Puerto Rondón;NA;NA
+6195938;49;1250318;sub2;3686110;COL;Colombia;3689717;Departamento de Arauca;6195938;Cravo Norte;NA;NA
+6198139;49;1250339;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;6198139;La Salina;NA;NA
+6791991;49;1250428;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;6791991;Puerto Guzmán;NA;NA
+6792005;49;1250433;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;6792005;Solita;NA;NA
+6798554;49;1250435;sub2;3686110;COL;Colombia;3681344;Departamento del Guaviare;6798554;Calamar;NA;NA
+6826880;49;1250448;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;6826880;La Macarena;NA;NA
+6851384;49;1250455;sub2;3686110;COL;Colombia;3681344;Departamento del Guaviare;6851384;San José del Guaviare;NA;NA
+6976870;49;1250472;sub2;3686110;COL;Colombia;3681344;Departamento del Guaviare;6976870;Miraflores;NA;NA
+6977691;49;1250494;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;6977691;Milán;NA;NA
+6979259;49;1250512;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;6979259;Puerto Rico;NA;NA
+6979260;49;1250513;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;6979260;El Doncello;NA;NA
+6979261;49;1250514;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;6979261;El Paujil;NA;NA
+7015557;49;1250542;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;7015557;Mesetas;NA;NA
+7015714;49;1250543;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;7015714;Vistahermosa;NA;NA
+7017789;49;1250579;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;7017789;Puerto Concordia;NA;NA
+8128835;49;1252335;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;8128835;Necoclí;NA;NA
+8128836;49;1252336;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;8128836;Albania;NA;NA
+8128837;49;1252337;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;8128837;Ariguaní;NA;NA
+9073272;49;1255815;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9073272;Paratebueno;NA;NA
+9073589;49;1255816;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9073589;San Alberto;NA;NA
+9165835;49;1255817;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9165835;Canalete;NA;NA
+9165867;49;1255818;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9165867;Cotorra;NA;NA
+9172023;49;1255819;sub2;3686110;COL;Colombia;3689982;Amazonas;9172023;El Encanto;NA;NA
+9172025;49;1255820;sub2;3686110;COL;Colombia;3689982;Amazonas;9172025;La Chorrera;NA;NA
+9172026;49;1255821;sub2;3686110;COL;Colombia;3689982;Amazonas;9172026;La Pedrera;NA;NA
+9172027;49;1255822;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172027;Vetas;NA;NA
+9172028;49;1255823;sub2;3686110;COL;Colombia;3689982;Amazonas;9172028;Leticia;NA;NA
+9172029;49;1255824;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172029;Vegachí;NA;NA
+9172030;49;1255825;sub2;3686110;COL;Colombia;3689982;Amazonas;9172030;Miriti - Paraná;NA;NA
+9172031;49;1255826;sub2;3686110;COL;Colombia;3689982;Amazonas;9172031;Puerto Nariño;NA;NA
+9172032;49;1255827;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9172032;Unguía;NA;NA
+9172033;49;1255828;sub2;3686110;COL;Colombia;3689982;Amazonas;9172033;Puerto Santander;NA;NA
+9172034;49;1255829;sub2;3686110;COL;Colombia;3689982;Amazonas;9172034;Tarapacá;NA;NA
+9172035;49;1255830;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172035;Tibú;NA;NA
+9172036;49;1255831;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;9172036;Tauramena;NA;NA
+9172037;49;1255832;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172037;Apartadó;NA;NA
+9172038;49;1255833;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172038;Soracá;NA;NA
+9172040;49;1255834;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172040;Argelia;NA;NA
+9172160;49;1255835;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172160;Caracolí;NA;NA
+9172161;49;1255836;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172161;Chachagüí;NA;NA
+9172162;49;1255837;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172162;Santa Rosa del Sur;NA;NA
+9172163;49;1255838;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172163;San Martín;NA;NA
+9172164;49;1255839;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172164;Cucaita;NA;NA
+9172165;49;1255840;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172165;San Juanito;NA;NA
+9172166;49;1255841;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172166;El Bagre;NA;NA
+9172168;49;1255842;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172168;El Castillo;NA;NA
+9172223;49;1255843;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172223;Carepa;NA;NA
+9172225;49;1255844;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172225;Hispania;NA;NA
+9172227;49;1255845;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172227;Nechí;NA;NA
+9172233;49;1255846;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172233;Puerto Triunfo;NA;NA
+9172235;49;1255847;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172235;Sabaneta;NA;NA
+9172236;49;1255848;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172236;San José de La Montaña;NA;NA
+9172239;49;1255849;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172239;San Juan de Urabá;NA;NA
+9172240;49;1255850;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172240;San Pedro de Uraba;NA;NA
+9172241;49;1255851;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172241;Santo Domingo;NA;NA
+9172242;49;1255852;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172242;Tarazá;NA;NA
+9172245;49;1255853;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172245;Uramita;NA;NA
+9172246;49;1255854;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;9172246;Villanueva;NA;NA
+9172247;49;1255855;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172247;Vigía del Fuerte;NA;NA
+9172249;49;1255856;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172249;Yondó;NA;NA
+9172250;49;1255857;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;9172250;Santa Lucía;NA;NA
+9172251;49;1255858;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172251;Cantagallo;NA;NA
+9172253;49;1255859;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172253;Cicuco;NA;NA
+9172254;49;1255860;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172254;Hatillo de Loba;NA;NA
+9172255;49;1255861;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172255;San Francisco;NA;NA
+9172256;49;1255862;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172256;San Pablo;NA;NA
+9172257;49;1255863;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172257;Talaigua Nuevo;NA;NA
+9172258;49;1255864;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172258;San Francisco;NA;NA
+9172259;49;1255865;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172259;Tiquisio;NA;NA
+9172260;49;1255866;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9172260;Ricaurte;NA;NA
+9172261;49;1255867;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172261;Briceño;NA;NA
+9172262;49;1255868;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172262;Chíquiza;NA;NA
+9172263;49;1255869;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;9172263;Murillo;NA;NA
+9172264;49;1255870;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172264;Chivatá;NA;NA
+9172265;49;1255871;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172265;Chivor;NA;NA
+9172266;49;1255872;sub2;3686110;COL;Colombia;3689982;Amazonas;9172266;La Victoria;NA;NA
+9172267;49;1255873;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172267;Puerto Rico;NA;NA
+9172268;49;1255874;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;9172268;Herveo;NA;NA
+9172269;49;1255875;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172269;Motavita;NA;NA
+9172270;49;1255876;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172270;Oicatá;NA;NA
+9172271;49;1255877;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9172271;Puerto Colombia;NA;NA
+9172272;49;1255878;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172272;Quípama;NA;NA
+9172273;49;1255879;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172273;San Eduardo;NA;NA
+9172275;49;1255880;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172275;Santana;NA;NA
+9172276;49;1255881;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172276;Somondoco;NA;NA
+9172277;49;1255882;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9172277;San Juan de Betulia;NA;NA
+9172278;49;1255883;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172278;Sora;NA;NA
+9172279;49;1255884;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172279;Tipacoque;NA;NA
+9172280;49;1255885;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9172280;Los Palmitos;NA;NA
+9172281;49;1255886;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172281;Tununguá;NA;NA
+9172282;49;1255887;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9172282;La Unión;NA;NA
+9172283;49;1255888;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9172283;Guaranda;NA;NA
+9172285;49;1255889;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;9172285;La Merced;NA;NA
+9172286;49;1255890;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9172286;Coloso;NA;NA
+9172287;49;1255891;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172287;Cartagena del Chairá;NA;NA
+9172288;49;1255892;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172288;Santa Helena del Opón;NA;NA
+9172289;49;1255893;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172289;Curillo;NA;NA
+9172290;49;1255894;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172290;Puerto Parra;NA;NA
+9172291;49;1255895;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172291;Landázuri;NA;NA
+9172292;49;1255896;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;9172292;Florencia;NA;NA
+9172293;49;1255897;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172293;Morelia;NA;NA
+9172294;49;1255898;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172294;La Belleza;NA;NA
+9172295;49;1255899;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172295;San José del Fragua;NA;NA
+9172296;49;1255900;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172296;Florián;NA;NA
+9172297;49;1255901;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172297;Solano;NA;NA
+9172298;49;1255902;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172298;El Playón;NA;NA
+9172301;49;1255903;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172301;El Carmen de Chucurí;NA;NA
+9172302;49;1255904;sub2;3686110;COL;Colombia;3671087;Quindío Department;9172302;Córdoba;NA;NA
+9172304;49;1255905;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;9172304;Suárez;NA;NA
+9172306;49;1255906;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172306;Villagarzón;NA;NA
+9172308;49;1255907;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172308;Valle del Guamuez;NA;NA
+9172309;49;1255908;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172309;Astrea;NA;NA
+9172310;49;1255909;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172310;Sibundoy;NA;NA
+9172311;49;1255910;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172311;Becerril;NA;NA
+9172312;49;1255911;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172312;Bosconia;NA;NA
+9172313;49;1255912;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172313;Santiago;NA;NA
+9172314;49;1255913;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172314;Curumaní;NA;NA
+9172315;49;1255914;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172315;El Paso;NA;NA
+9172316;49;1255915;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172316;Puerto Caicedo;NA;NA
+9172317;49;1255916;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172317;Manaure;NA;NA
+9172318;49;1255917;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172318;Puerto Asís;NA;NA
+9172319;49;1255918;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172319;Pailitas;NA;NA
+9172320;49;1255919;sub2;3686110;COL;Colombia;3671087;Quindío Department;9172320;Buenavista;NA;NA
+9172321;49;1255920;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172321;Orito;NA;NA
+9172322;49;1255921;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9172322;Buenavista;NA;NA
+9172324;49;1255922;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172324;Puerto Santander;NA;NA
+9172325;49;1255923;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172325;La Esperanza;NA;NA
+9172326;49;1255924;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172326;San Diego;NA;NA
+9172328;49;1255925;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172328;Valledupar;NA;NA
+9172330;49;1255926;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172330;San Pedro de Cartago;NA;NA
+9172332;49;1255927;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172332;Providencia;NA;NA
+9172334;49;1255928;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172334;Policarpa;NA;NA
+9172338;49;1255929;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172338;San Bernardo;NA;NA
+9172340;49;1255930;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9172340;Los Córdobas;NA;NA
+9172341;49;1255931;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172341;Leiva;NA;NA
+9172342;49;1255932;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9172342;Momil;NA;NA
+9172343;49;1255933;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172343;La Tola;NA;NA
+9172344;49;1255934;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9172344;Moñitos;NA;NA
+9172345;49;1255935;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172345;La Llanada;NA;NA
+9172348;49;1255936;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172348;Francisco Pizarro;NA;NA
+9172349;49;1255937;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9172349;Cachipay;NA;NA
+9172351;49;1255938;sub2;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172351;Valparaíso;NA;NA
+9172353;49;1255939;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9172353;Guayabetal;NA;NA
+9172354;49;1255940;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172354;Cumbitara;NA;NA
+9172355;49;1255941;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172355;Belén;NA;NA
+9172356;49;1255942;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172356;San Juan de Arama;NA;NA
+9172357;49;1255943;sub2;3686110;COL;Colombia;3689436;Departamento del Atlántico;9172357;Ponedera;NA;NA
+9172358;49;1255944;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172358;San Carlos de Guaroa;NA;NA
+9172359;49;1255945;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9172359;Olaya Herrera;NA;NA
+9172360;49;1255946;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172360;Puerto Gaitán;NA;NA
+9172361;49;1255947;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172361;Lejanías;NA;NA
+9172363;49;1255948;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172363;El Copey;NA;NA
+9172364;49;1255949;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172364;Fuente de Oro;NA;NA
+9172366;49;1255950;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172366;Cimitarra;NA;NA
+9172367;49;1255951;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172367;El Dorado;NA;NA
+9172368;49;1255952;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172368;Cubarral;NA;NA
+9172369;49;1255953;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172369;Cabuyaro;NA;NA
+9172370;49;1255954;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172370;Buenaventura;NA;NA
+9172372;49;1255955;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172372;La Victoria;NA;NA
+9172375;49;1255956;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9172375;Sibaté;NA;NA
+9172376;49;1255957;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9172376;Villagómez;NA;NA
+9172377;49;1255958;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172377;Yumbo;NA;NA
+9172378;49;1255959;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9172378;Barranco Minas;NA;NA
+9172379;49;1255960;sub2;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172379;Caruru;NA;NA
+9172380;49;1255961;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9172380;Cacahual;NA;NA
+9172381;49;1255962;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9172381;Inírida;NA;NA
+9172382;49;1255963;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9172382;Pana Pana;NA;NA
+9172385;49;1255964;sub2;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172385;Mitú;NA;NA
+9172387;49;1255965;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9172387;Manaure;NA;NA
+9172388;49;1255966;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9172388;Urumita;NA;NA
+9172389;49;1255967;sub2;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172389;Pacoa;NA;NA
+9172390;49;1255968;sub2;3686110;COL;Colombia;3681344;Departamento del Guaviare;9172390;El Retorno;NA;NA
+9172391;49;1255969;sub2;3686110;COL;Colombia;3680692;Departamento del Huila;9172391;Palestina;NA;NA
+9172392;49;1255970;sub2;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172392;Papunaua;NA;NA
+9172393;49;1255971;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9172393;Chibolo;NA;NA
+9172394;49;1255972;sub2;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172394;Taraira;NA;NA
+9172395;49;1255973;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172395;Barranca de Upía;NA;NA
+9172397;49;1255974;sub2;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172397;Yavaraté;NA;NA
+9172398;49;1255975;sub2;3686110;COL;Colombia;3666082;Departamento del Vichada;9172398;Cumaribo;NA;NA
+9172399;49;1255976;sub2;3686110;COL;Colombia;3666082;Departamento del Vichada;9172399;La Primavera;NA;NA
+9172401;49;1255977;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172401;El Tarra;NA;NA
+9172402;49;1255978;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9172402;Galeras;NA;NA
+9172403;49;1255979;sub2;3686110;COL;Colombia;3666082;Departamento del Vichada;9172403;Puerto Carreño;NA;NA
+9172406;49;1255980;sub2;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172406;Los Patios;NA;NA
+9172408;49;1255981;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9172408;Mapiripán;NA;NA
+9172409;49;1255982;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172409;Montecristo;NA;NA
+9172410;49;1255983;sub2;3686110;COL;Colombia;3666082;Departamento del Vichada;9172410;Santa Rosalía;NA;NA
+9172411;49;1255984;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9172411;Sabana de Torres;NA;NA
+9172413;49;1255985;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9172413;Páez;NA;NA
+9172414;49;1255986;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9172414;Pelaya;NA;NA
+9172415;49;1255987;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172415;Altos del Rosario;NA;NA
+9172416;49;1255988;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172416;Río Viejo;NA;NA
+9172419;49;1255989;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9172419;Puerto Libertador;NA;NA
+9178684;49;1255990;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9178684;Guadalupe;NA;NA
+9178686;49;1255991;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;9178686;Saldaña;NA;NA
+9178689;49;1255992;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9178689;Villanueva;NA;NA
+9178690;49;1255993;sub2;3686110;COL;Colombia;3687173;Departamento de Casanare;9178690;Sabanalarga;NA;NA
+9178694;49;1255994;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9178694;Cabrera;NA;NA
+9178698;49;1255995;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9178698;La Guadalupe;NA;NA
+9178719;49;1255996;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9178719;El Molino;NA;NA
+9178731;49;1255997;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9178731;Granada;NA;NA
+9179528;49;1255998;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179528;Medio San Juan;NA;NA
+9179529;49;1255999;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179529;Carmen del Darien;NA;NA
+9179541;49;1256001;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179541;Atrato;NA;NA
+9179543;49;1256002;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179543;Unión Panamericana;NA;NA
+9179547;49;1256004;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179547;Medio Atrato;NA;NA
+9179548;49;1256005;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179548;Río Quito;NA;NA
+9179551;49;1256007;sub2;3686110;COL;Colombia;3670698;Departamento de Risaralda;9179551;Dosquebradas;NA;NA
+9179552;49;1256008;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179552;Cértegui;NA;NA
+9179553;49;1256009;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179553;Medio Baudó;NA;NA
+9179554;49;1256010;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9179554;Río Iro;NA;NA
+9179556;49;1256011;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9179556;Dibulla;NA;NA
+9179558;49;1256012;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9179558;San Miguel;NA;NA
+9179578;49;1256013;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9179578;La Pintada;NA;NA
+9179697;49;1256014;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9179697;Santa Bárbara;NA;NA
+9179699;49;1256015;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9179699;Venecia;NA;NA
+9179702;49;1256016;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9179702;Granada;NA;NA
+9179884;49;1256020;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9179884;El Rosal;NA;NA
+9179886;49;1256021;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9179886;Puerto Nare;NA;NA
+9179887;49;1256022;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9179887;La Jagua de Ibirico;NA;NA
+9179890;49;1256023;sub2;3686110;COL;Colombia;3686880;Departamento del Cesar;9179890;Pueblo Bello;NA;NA
+9179893;49;1256024;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9179893;San Antonio del Tequendama;NA;NA
+9179894;49;1256025;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9179894;Clemencia;NA;NA
+9179904;49;1256026;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9179904;Distracción;NA;NA
+9179910;49;1256027;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9179910;Albania;NA;NA
+9179911;49;1256028;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9179911;Hatonuevo;NA;NA
+9179913;49;1256029;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9179913;Zona Bananera;NA;NA
+9179942;49;1256040;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9179942;La Apartada;NA;NA
+9179953;49;1256041;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9179953;La Victoria;NA;NA
+9609507;49;1256075;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;9609507;Guachene;NA;NA
+9609508;49;1256076;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9609508;San Jose De Ure;NA;NA
+9609509;49;1256077;sub2;3686110;COL;Colombia;3685889;Departamento de Córdoba;9609509;Tuchin;NA;NA
+9609510;49;1256078;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609510;Norosi;NA;NA
+9609512;49;1256079;sub2;3686110;COL;Colombia;3689982;Amazonas;9609512;Puerto Alegría;NA;NA
+9609513;49;1256080;sub2;3686110;COL;Colombia;3689982;Amazonas;9609513;Puerto Arica;NA;NA
+9609514;49;1256081;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9609514;Ciudad Bolívar;NA;NA
+9609515;49;1256082;sub2;3686110;COL;Colombia;3689815;Departamento de Antioquia;9609515;El Carmen de Viboral;NA;NA
+9609516;49;1256083;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;9609516;Piamonte;NA;NA
+9609517;49;1256084;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;9609517;Sucre;NA;NA
+9609518;49;1256085;sub2;3686110;COL;Colombia;3687029;Departamento del Cauca;9609518;Villa Rica;NA;NA
+9609519;49;1256086;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9609519;El Cantón del San Pablo;NA;NA
+9609520;49;1256087;sub2;3686110;COL;Colombia;3686431;Departamento del Chocó;9609520;El Litoral del San Juan;NA;NA
+9609521;49;1256088;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9609521;Mapiripana;NA;NA
+9609522;49;1256089;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9609522;San Felipe;NA;NA
+9609523;49;1256090;sub2;3686110;COL;Colombia;3681652;Departamento del Guainía;9609523;Morichal;NA;NA
+9609524;49;1256091;sub2;3686110;COL;Colombia;3678847;Departamento de La Guajira;9609524;La Jagua del Pilar;NA;NA
+9609525;49;1256092;sub2;3686110;COL;Colombia;3674810;Departamento del Meta;9609525;Uribe;NA;NA
+9609526;49;1256093;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9609526;El Peñol;NA;NA
+9609527;49;1256094;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9609527;Nariño;NA;NA
+9609528;49;1256095;sub2;3686110;COL;Colombia;3674021;Departamento de Nariño;9609528;San Andres de Tumaco;NA;NA
+9609529;49;1256096;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9609529;Colón;NA;NA
+9609530;49;1256097;sub2;3686110;COL;Colombia;3671178;Departamento del Putumayo;9609530;Leguízamo;NA;NA
+9609531;49;1256098;sub2;3686110;COL;Colombia;3668578;Departamento de Santander;9609531;El Peñón;NA;NA
+9609532;49;1256099;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9609532;Buenavista;NA;NA
+9609533;49;1256100;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9609533;Coveñas;NA;NA
+9609534;49;1256101;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9609534;El Roble;NA;NA
+9609535;49;1256102;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9609535;San Luis de Sincé;NA;NA
+9609536;49;1256103;sub2;3686110;COL;Colombia;3667725;Departamento de Sucre;9609536;Santiago de Tolú;NA;NA
+9609537;49;1256104;sub2;3686110;COL;Colombia;3666951;Departamento de Tolima;9609537;Palocabildo;NA;NA
+9609538;49;1256105;sub2;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9609538;Guadalajara de Buga;NA;NA
+9609539;49;1256106;sub2;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9609539;Villa de San Diego de Ubate;NA;NA
+9609540;49;1256107;sub2;3686110;COL;Colombia;3688685;Distrito Capital de Bogotá;9609540;Bogotá  D.C.;NA;NA
+9609541;49;1256108;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609541;Arenal;NA;NA
+9609542;49;1256109;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609542;Arroyohondo;NA;NA
+9609543;49;1256110;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609543;El Peñón;NA;NA
+9609544;49;1256111;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609544;Regidor;NA;NA
+9609545;49;1256112;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609545;San Cristóbal;NA;NA
+9609546;49;1256113;sub2;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609546;San Jacinto del Cauca;NA;NA
+9609547;49;1256114;sub2;3686110;COL;Colombia;3688536;Departamento de Boyacá;9609547;Santa María;NA;NA
+9609548;49;1256115;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;9609548;Norcasia;NA;NA
+9609549;49;1256116;sub2;3686110;COL;Colombia;3687951;Departamento de Caldas;9609549;San José;NA;NA
+9609550;49;1256117;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609550;Concordia;NA;NA
+9609551;49;1256118;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609551;El Retén;NA;NA
+9609552;49;1256119;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609552;Nueva Granada;NA;NA
+9609553;49;1256120;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609553;Pijiño del Carmen;NA;NA
+9609554;49;1256121;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609554;Sabanas de San Angel;NA;NA
+9609555;49;1256122;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609555;Santa Bárbara de Pinto;NA;NA
+9609556;49;1256123;sub2;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609556;Zapayán;NA;NA
+3665542;49;1222510;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665543;Zipaquirá;3665542;Zipaquirá
+3665559;49;1222522;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3665560;Zarzal;3665559;Zarzal
+3665566;49;1222525;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665573;Zaragoza;3665566;Zaragoza
+3665587;49;1222540;city;3686110;COL;Colombia;3668578;Departamento de Santander;3665588;Zapatoca;3665587;Zapatoca
+3665616;49;1222556;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;NA;NA;3665616;Zambrano
+3665657;49;1222579;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172377;Yumbo;3665657;Yumbo
+3665678;49;1222590;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3665679;Yotoco;3665678;Yotoco
+3665688;49;1222598;city;3686110;COL;Colombia;3687173;Departamento de Casanare;3665690;Yopal;3665688;Yopal
+3665691;49;1222601;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172249;Yondó;3665691;Yondó
+3665693;49;1222603;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665695;Yolombó;3665693;Yolombó
+3665741;49;1222624;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665747;Yarumal;3665741;Yarumal
+3665803;49;1222652;city;3686110;COL;Colombia;3680692;Departamento del Huila;3665804;Yaguará;3665803;Yaguará
+3665851;49;1222678;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3665852;Viterbo;3665851;Viterbo
+3665881;49;1222701;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665882;Viotá;3665881;Viotá
+3665895;49;1222708;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665896;Villeta;3665895;Villeta
+3665900;49;1222712;city;3686110;COL;Colombia;3674810;Departamento del Meta;3665901;Villavicencio;3665900;Villavicencio
+3665913;49;1222724;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3665914;Villa del Rosario;3665913;Villa del Rosario
+3665924;49;1222735;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3665925;Villapinzón;3665924;Villapinzón
+3665934;49;1222740;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3665960;Villanueva;3665934;Villanueva
+3665935;49;1222741;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3665961;Villanueva;3665935;Villanueva
+3665951;49;1222757;city;3686110;COL;Colombia;3687173;Departamento de Casanare;3669354;San Luis de Palenque;3665951;Villanueva
+3665973;49;1222775;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3665975;Villamaría;3665973;Villamaría
+3665992;49;1222791;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172306;Villagarzón;3665992;Villagarzón
+3666003;49;1222802;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3676662;Villa de Leyva;3666003;Villa de Leyva
+3666193;49;1222906;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666207;Venecia;3666193;Venecia
+3666226;49;1222924;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3666227;Venadillo;3666226;Venadillo
+3666232;49;1222928;city;3686110;COL;Colombia;3668578;Departamento de Santander;3666233;Vélez;3666232;Vélez
+3666304;49;1222971;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172328;Valledupar;3666304;Valledupar
+3666326;49;1222987;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3666330;Valencia;3666326;Valencia
+3666370;49;1223009;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3666371;Usiacurí;3666370;Usiacurí
+3666381;49;1223015;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;9172388;Urumita;3666381;Urumita
+3666395;49;1223022;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666396;Urrao;3666395;Urrao
+3666409;49;1223031;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3666412;Uribia;3666409;Uribia
+3666519;49;1223084;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9609539;Villa de San Diego de Ubate;3666519;Villa de San Diego de Ubaté
+3666570;49;1223111;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3666571;Turbo;3666570;Turbo
+3666575;49;1223114;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3666576;Turbaná;3666575;Turbaná
+3666577;49;1223116;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3666579;Turbaco;3666577;Turbaco
+3666582;49;1223120;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3666583;Túquerres;3666582;Túquerres
+3666608;49;1223133;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3666610;Tunja;3666608;Tunja
+3666640;49;1223142;city;3686110;COL;Colombia;3674021;Departamento de Nariño;9609528;San Andres de Tumaco;3666640;Tumaco
+3666645;49;1223143;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666646;Tuluá;3666645;Tuluá
+3666673;49;1223158;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3666674;Tubará;3666673;Tubará
+3666680;49;1223161;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666682;Trujillo;3666680;Trujillo
+3666881;49;1223262;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3666882;Toro;3666881;Toro
+3666936;49;1223294;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3666941;Tolú Viejo;3666936;Tolú Viejo
+3666939;49;1223295;city;3686110;COL;Colombia;3667725;Departamento de Sucre;9609536;Santiago de Tolú;3666939;Santiago de Tolú
+3666959;49;1223307;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3666961;Toledo;3666959;Toledo
+3666997;49;1223334;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3666998;Tocancipá;3666997;Tocancipá
+3667003;49;1223338;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667004;Tocaima;3667003;Tocaima
+3667070;49;1223367;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3667071;Timbiquí;3667070;Timbiquí
+3667082;49;1223373;city;3686110;COL;Colombia;3680692;Departamento del Huila;3667083;Timaná;3667082;Timaná
+3667158;49;1223398;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3667159;Tierralta;3667158;Tierralta
+3667202;49;1223432;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172035;Tibú;3667202;Tibú
+3667473;49;1223576;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667474;Támesis;3667473;Támesis
+3667478;49;1223578;city;3686110;COL;Colombia;3689717;Departamento de Arauca;3667480;Tame;3667478;Tame
+3667547;49;1223614;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172257;Talaigua Nuevo;3667547;Talaigua Viejo
+3667579;49;1223628;city;3686110;COL;Colombia;3686431;Departamento del Chocó;3667580;Tadó;3667579;Tadó
+3667697;49;1223690;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3667698;Supía;3667697;Supía
+3667728;49;1223707;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3667734;Sucre;3667728;Sucre
+3667773;49;1223725;city;3686110;COL;Colombia;3687029;Departamento del Cauca;9172304;Suárez;3667773;Suárez
+3667780;49;1223727;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3667781;Suan;3667780;Suan
+3667807;49;1223745;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667808;Sopó;3667807;Sopó
+3667811;49;1223747;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669930;San Estanislao;3667811;Soplaviento
+3667820;49;1223753;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3667821;Sonson;3667820;Sonsón
+3667849;49;1223765;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3667859;Soledad;3667849;Soledad
+3667873;49;1223778;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667874;Sogamoso;3667873;Sogamoso
+3667887;49;1223785;city;3686110;COL;Colombia;3668578;Departamento de Santander;3667888;Socorro;3667887;Socorro
+3667901;49;1223794;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3667903;Soatá;3667901;Soatá
+3667905;49;1223797;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3667906;Soacha;3667905;Soacha
+3667918;49;1223806;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;NA;NA;3667918;Sitionuevo
+3667983;49;1223842;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3667985;Sincelejo;3667983;Sincelejo
+3667991;49;1223848;city;3686110;COL;Colombia;3667725;Departamento de Sucre;9609535;San Luis de Sincé;3667991;San Luis de Sincé
+3668012;49;1223854;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3668014;Simití;3668012;Simití
+3668025;49;1223862;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3668026;Silvia;3668025;Silvia
+3668028;49;1223864;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3668029;Silvania;3668028;Silvania
+3668078;49;1223887;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172310;Sibundoy;3668078;Sibundoy
+3668087;49;1223894;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9172375;Sibaté;3668087;Sibaté
+3668132;49;1223927;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3668134;Sevilla;3668132;Sevilla
+3668175;49;1223950;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668177;Segovia;3668175;Segovia
+3668245;49;1223980;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3668246;Sardinata;3668245;Sardinata
+3668286;49;1223994;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;NA;NA;3668286;San Zenón
+3668292;49;1224000;city;3686110;COL;Colombia;3668578;Departamento de Santander;3668293;San Vicente de Chucurí;3668292;San Vicente de Chucurí
+3668323;49;1224023;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668328;El Santuario;3668323;Santuario
+3668324;49;1224024;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3668329;Santuario;3668324;Santuario
+3668332;49;1224030;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3668337;Santo Tomás;3668332;Santo Tomás
+3668447;49;1224109;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3668448;Santa Rosa de Viterbo;3668447;Santa Rosa de Viterbo
+3668451;49;1224113;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668452;Santa Rosa de Osos;3668451;Santa Rosa de Osos
+3668454;49;1224116;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3668455;Santa Rosa de Cabal;3668454;Santa Rosa de Cabal
+3668472;49;1224127;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3668524;Santa Rosa;3668472;Santa Rosa
+3668572;49;1224212;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3668573;Santander de Quilichao;3668572;Santander de Quilichao
+3668605;49;1224234;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3668614;Santa Marta;3668605;Santa Marta
+3668655;49;1224267;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;9172250;Santa Lucía;3668655;Santa Lucía
+3668861;49;1224433;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3668858;Santa Catalina;3668861;Santa Catalina
+3668895;49;1224451;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3668920;Santa Bárbara;3668895;Santa Bárbara
+3668937;49;1224481;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3668928;Santa Ana;3668937;Santa Ana
+3669011;49;1224546;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669018;San Roque;3669011;San Roque
+3669056;49;1224576;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669034;San Rafael;3669056;San Rafael
+3669084;49;1224596;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3669085;San Pelayo;3669084;San Pelayo
+3669087;49;1224598;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172240;San Pedro de Uraba;3669087;San Pedro de Urabá
+3669128;49;1224619;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3669167;San Pedro;3669128;San Pedro
+3669138;49;1224629;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3669168;Municipio de San Pedro de los Milagros;3669138;San Pedro
+3669156;49;1224645;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3669169;San Pedro;3669156;San Pedro
+3669188;49;1224661;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675288;Municipio de María la Baja;3669188;San Pablo
+3669214;49;1224684;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3669217;San Pablo;3669214;San Pablo
+3669218;49;1224688;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3669219;San Onofre;3669218;San Onofre
+3669293;49;1224745;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9179558;San Miguel;3669293;La Dorada
+3669332;49;1224771;city;3686110;COL;Colombia;3674810;Departamento del Meta;3669334;San Martín;3669332;San Martín
+3669346;49;1224777;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3669350;San Marcos;3669346;San Marcos
+3669454;49;1224847;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669455;San Juan Nepomuceno;3669454;San Juan Nepomuceno
+3669461;49;1224853;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172239;San Juan de Urabá;3669461;San Juan de Urabá
+3669469;49;1224860;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3669470;San Juan del Cesar;3669469;San Juan del Cesar
+3669480;49;1224868;city;3686110;COL;Colombia;3667725;Departamento de Sucre;9172277;San Juan de Betulia;3669480;San Juan de Betulia
+3669736;49;1225037;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669739;San Jacinto;3669736;San Jacinto
+3669808;49;1225093;city;3686110;COL;Colombia;3668578;Departamento de Santander;3669809;San Gil;3669808;San Gil
+3669929;49;1225182;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3669930;San Estanislao;3669929;San Estanislao
+3669938;49;1225190;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3669939;Sandoná;3669938;Sandoná
+3669947;49;1225194;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172326;San Diego;3669947;San Diego
+3669997;49;1225230;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670009;San Carlos;3669997;San Carlos
+3669998;49;1225231;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172166;El Bagre;3669998;San Carlos
+3670000;49;1225232;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670010;San Carlos;3670000;San Carlos
+3670018;49;1225246;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670019;San Bernardo del Viento;3670018;San Bernardo del Viento
+3670038;49;1225262;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3670039;San Benito Abad;3670038;San Benito Abad
+3670107;49;1225302;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3667302;Tenerife;3670107;San Antonio
+3670162;49;1225356;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3670198;San Antonio;3670162;San Antonio
+3670199;49;1225391;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670200;San Antero;3670199;San Antero
+3670218;49;1225401;city;3686110;COL;Colombia;3670205;Providencia y Santa Catalina, Departamento de Archipiélago de San Andrés;3670229;San Andrés;3670218;San Andrés
+3670242;49;1225421;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9073589;San Alberto;3670242;San Alberto
+3670260;49;1225433;city;3686110;COL;Colombia;3680692;Departamento del Huila;3670266;San Agustín;3670260;San Agustín
+3670280;49;1225445;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3670282;Sampués;3670280;Sampués
+3670293;49;1225451;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3670294;Samaniego;3670293;Samaniego
+3670350;49;1225484;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670351;Salgar;3670350;Salgar
+3670357;49;1225489;city;3686110;COL;Colombia;3666951;Departamento de Tolima;9178686;Saldaña;3670357;Saldaña
+3670368;49;1225495;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3670371;Salamina;3670368;Salamina
+3670370;49;1225497;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3670372;Salamina;3670370;Salamina
+3670419;49;1225509;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3670420;Sahagún;3670419;Sahagún
+3670502;49;1225562;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3670507;Sabanalarga;3670502;Sabanalarga
+3670513;49;1225571;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3670519;Sabanagrande;3670513;Sabanagrande
+3670520;49;1225578;city;3686110;COL;Colombia;3668578;Departamento de Santander;9172411;Sabana de Torres;3670520;Sabana de Torres
+3670587;49;1225607;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3670588;Rovira;3670587;Rovira
+3670644;49;1225641;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3670645;Roldanillo;3670644;Roldanillo
+3670692;49;1225665;city;3686110;COL;Colombia;3680692;Departamento del Huila;3670693;Rivera;3670692;Rivera
+3670700;49;1225669;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3670701;Risaralda;3670700;Risaralda
+3670709;49;1225671;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172416;Río Viejo;3670709;Río Viejo
+3670718;49;1225680;city;3686110;COL;Colombia;3686431;Departamento del Chocó;3670720;Riosucio;3670718;Riosucio
+3670719;49;1225681;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3670721;Riosucio;3670719;Riosucio
+3670730;49;1225690;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670736;Rionegro;3670730;Rionegro
+3670745;49;1225701;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3670747;Riohacha;3670745;Riohacha
+3670754;49;1225708;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3670755;Riofrío;3670754;Riofrío
+3670756;49;1225710;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3670757;Río de Oro;3670756;Río de Oro
+3670764;49;1225717;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3670766;Rioblanco;3670764;Rioblanco
+3670849;49;1225762;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670853;Retiro;3670849;Retiro
+3670855;49;1225767;city;3686110;COL;Colombia;3674810;Departamento del Meta;3670859;Restrepo;3670855;Restrepo
+3670856;49;1225768;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3670860;Restrepo;3670856;Restrepo
+3670874;49;1225781;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3670876;Repelón;3670874;Repelón
+3670884;49;1225786;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3670898;Remolino;3670884;Remolino
+3670899;49;1225801;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3670900;Remedios;3670899;Remedios
+3671091;49;1225886;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3671092;Quinchía;3671091;Quinchía
+3671098;49;1225888;city;3686110;COL;Colombia;3671087;Quindío Department;3671099;Quimbaya;3671098;Quimbaya
+3671116;49;1225898;city;3686110;COL;Colombia;3686431;Departamento del Chocó;3671117;Quibdó;3671116;Quibdó
+3671203;49;1225946;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3671204;Purísima;3671203;Purísima de la Concepción
+3671208;49;1225948;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3671209;Purificación;3671208;Purificación
+3671228;49;1225959;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3671229;Pupiales;3671228;Pupiales
+3671287;49;1225998;city;3686110;COL;Colombia;3668578;Departamento de Santander;3671289;Puerto Wilches;3671287;Puerto Wilches
+3671315;49;1226025;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3671316;Puerto Tejada;3671315;Puerto Tejada
+3671325;49;1226034;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172324;Puerto Santander;3671325;Puerto Santander
+3671330;49;1226039;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3671331;Puerto Salgar;3671330;Puerto Salgar
+3671348;49;1226055;city;3686110;COL;Colombia;3687479;Departamento del Caquetá;6979259;Puerto Rico;3671348;Puerto Rico
+3671418;49;1226121;city;3686110;COL;Colombia;3674810;Departamento del Meta;3671422;Puerto López;3671418;Puerto López
+3671437;49;1226138;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9609530;Leguízamo;3671437;Puerto Leguízamo
+3671450;49;1226150;city;3686110;COL;Colombia;3681652;Departamento del Guainía;9172381;Inírida;3671450;Inírida
+3671497;49;1226191;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3671506;Puerto Colombia;3671497;Puerto Colombia
+3671519;49;1226213;city;3686110;COL;Colombia;3666082;Departamento del Vichada;9172403;Puerto Carreño;3671519;Puerto Carreño
+3671531;49;1226224;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3671533;Puerto Boyacá;3671531;Puerto Boyacá
+3671540;49;1226233;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3671541;Puerto Berrío;3671540;Puerto Berrío
+3671549;49;1226242;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172318;Puerto Asís;3671549;Puerto Asís
+3671591;49;1226278;city;3686110;COL;Colombia;3668578;Departamento de Santander;3671592;Puente Nacional;3671591;Puente Nacional
+3671615;49;1226295;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3671628;Puebloviejo;3671615;Puebloviejo
+3671630;49;1226310;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3671632;Pueblorrico;3671630;Pueblorrico
+3671655;49;1226335;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3689382;Ayapel;3671655;Pueblo Nuevo
+3671772;49;1226419;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3671773;Pradera;3671772;Pradera
+3671916;49;1226519;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3671917;Popayán;3671916;Popayán
+3671936;49;1226526;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;9172357;Ponedera;3671936;Ponedera
+3671950;49;1226536;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3671951;Polonuevo;3671950;Polonuevo
+3672012;49;1226572;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3670198;San Antonio;3672012;Playarrica
+3672068;49;1226600;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3672069;Planeta Rica;3672068;Planeta Rica
+3672077;49;1226608;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3672078;Planadas;3672077;Planadas
+3672086;49;1226612;city;3686110;COL;Colombia;3686431;Departamento del Chocó;3689318;Bajo Baudó;3672086;Pizarro
+3672087;49;1226613;city;3686110;COL;Colombia;3674021;Departamento de Nariño;NA;NA;3672087;Salahonda
+3672093;49;1226617;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3672094;Pivijay;3672093;Pivijay
+3672110;49;1226626;city;3686110;COL;Colombia;3680692;Departamento del Huila;3672111;Pitalito;3672110;Pitalito
+3672197;49;1226666;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3673097;Pinillos;3672197;Pinillos
+3672249;49;1226693;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609553;Pijiño del Carmen;3672249;Pijiño del Carmen
+3672255;49;1226696;city;3686110;COL;Colombia;3671087;Quindío Department;3672256;Pijao;3672255;Pijao
+3672328;49;1226724;city;3686110;COL;Colombia;3668578;Departamento de Santander;3672331;Piedecuesta;3672328;Piedecuesta
+3672428;49;1226766;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3672430;Pesca;3672428;Pesca
+3672486;49;1226788;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3672487;Pereira;3672486;Pereira
+3672521;49;1226805;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3672524;Pensilvania;3672521;Pensilvania
+3672599;49;1226836;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172414;Pelaya;3672599;Pelaya
+3672664;49;1226864;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3669408;San Luis;3672664;Payandé
+3672761;49;1226918;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3672762;Patía;3672761;Patía
+3672778;49;1226924;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3672779;Pasto;3672778;Pasto
+3673045;49;1227081;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3673046;Pamplona;3673045;Pamplona
+3673142;49;1227146;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3673144;Palmito;3673142;Palmito
+3673164;49;1227164;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3673165;Palmira;3673164;Palmira
+3673220;49;1227203;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3673221;Palmar de Varela;3673220;Palmar de Varela
+3673269;49;1227228;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3673276;Palestina;3673269;Palestina
+3673286;49;1227243;city;3686110;COL;Colombia;3680692;Departamento del Huila;3673290;Palermo;3673286;Palermo
+3673369;49;1227286;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3673371;Paipa;3673369;Paipa
+3673379;49;1227292;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172319;Pailitas;3673379;Pailitas
+3673398;49;1227303;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3673399;Paez;3673398;Belalcázar
+3673404;49;1227309;city;3686110;COL;Colombia;3666951;Departamento de Tolima;9172268;Herveo;3673404;Padua
+3673413;49;1227312;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3673414;Pácora;3673413;Pácora
+3673424;49;1227321;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673425;Pacho;3673424;Pacho
+3673455;49;1227331;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3673457;Ovejas;3673455;Ovejas
+3673511;49;1227351;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3673514;Ortega;3673511;Ortega
+3673609;49;1227402;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3685985;Consaca;3673609;Olaya Herrera
+3673662;49;1227428;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3673663;Ocaña;3673662;Ocaña
+3673676;49;1227438;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3673678;Obando;3673676;Obando
+3673811;49;1227532;city;3686110;COL;Colombia;3687951;Departamento de Caldas;9609548;Norcasia;3673811;Norcasia
+3673887;49;1227566;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3673888;Nemocón;3673887;Nemocón
+3673899;49;1227571;city;3686110;COL;Colombia;3680692;Departamento del Huila;3673900;Neiva;3673899;Neiva
+3673902;49;1227574;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3673904;Neira;3673902;Neira
+3673974;49;1227582;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;8128835;Necoclí;3673974;Necoclí
+3673976;49;1227583;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172227;Nechí;3673976;Nechí
+3674010;49;1227601;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3674011;Natagaima;3674010;Natagaima
+3674121;49;1227653;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674122;Muzo;3674121;Muzo
+3674292;49;1227717;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3674295;Mosquera;3674292;Mosquera
+3674412;49;1227778;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3674414;Morales;3674412;Morales
+3674453;49;1227808;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3674454;Montería;3674453;Montería
+3674463;49;1227815;city;3686110;COL;Colombia;3671087;Quindío Department;3674464;Montenegro;3674463;Montenegro
+3674470;49;1227822;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3674471;Montelíbano;3674470;Montelíbano
+3674499;49;1227842;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172409;Montecristo;3674499;Montecristo
+3674569;49;1227886;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3667159;Tierralta;3674569;Moñitos
+3674572;49;1227888;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3674574;Moniquirá;3674572;Moniquirá
+3674597;49;1227906;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3674600;Mompós;3674597;Mompós
+3674603;49;1227909;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;9172342;Momil;3674603;Momil
+3674654;49;1227936;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;3674655;Mocoa;3674654;Mocoa
+3674676;49;1227944;city;3686110;COL;Colombia;3666254;Departamento del Vaupés;9172385;Mitú;3674676;Mitú
+3674678;49;1227945;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3674679;Mistrató;3674678;Mistrató
+3674702;49;1227958;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3674703;Miranda;3674702;Miranda
+3674885;49;1228056;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3674886;Melgar;3674885;Melgar
+3674962;49;1228099;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3674954;Medellín;3674962;Medellín
+3675212;49;1228229;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3675214;Marsella;3675212;Marsella
+3675234;49;1228239;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3675235;Marquetalia;3675234;Marquetalia
+3675252;49;1228250;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3675253;Municipio de San Sebastián de Mariquita;3675252;San Sebastián de Mariquita
+3675263;49;1228258;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3675265;Marinilla;3675263;Marinilla
+3675287;49;1228270;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675288;Municipio de María la Baja;3675287;María la Baja
+3675409;49;1228334;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3672524;Pensilvania;3675409;Manzanares
+3675443;49;1228353;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3675444;Manizales;3675443;Manizales
+3675452;49;1228359;city;3686110;COL;Colombia;3687173;Departamento de Casanare;3675454;Maní;3675452;Maní
+3675504;49;1228379;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;9172387;Manaure;3675504;Manaure
+3675512;49;1228381;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3675514;Manatí;3675512;Manatí
+3675595;49;1228422;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3675597;Malambo;3675595;Malambo
+3675605;49;1228429;city;3686110;COL;Colombia;3668578;Departamento de Santander;3675606;Málaga;3675605;Málaga
+3675637;49;1228447;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3675640;Majagual;3675637;Majagual
+3675657;49;1228459;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3675659;Maicao;3675657;Maicao
+3675668;49;1228466;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675666;Mahates;3675668;Mahates
+3675692;49;1228476;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3675695;Magangué;3675692;Magangué
+3675707;49;1228484;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3675708;Madrid;3675707;Madrid
+3675826;49;1228549;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3675827;Luruaco;3675826;Luruaco
+3675975;49;1228642;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;9172406;Los Patios;3675975;Los Patios
+3675987;49;1228647;city;3686110;COL;Colombia;3667725;Departamento de Sucre;9172280;Los Palmitos;3675987;Los Palmitos
+3676397;49;1228928;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3676400;Lorica;3676397;Lorica
+3676604;49;1229054;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3676606;Líbano;3676604;Líbano
+3676623;49;1229070;city;3686110;COL;Colombia;3689982;Amazonas;9172028;Leticia;3676623;Leticia
+3676626;49;1229073;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3676628;Lérida;3676626;Lérida
+3676674;49;1229094;city;3686110;COL;Colombia;3668578;Departamento de Santander;3676675;Lebríja;3676674;Lebrija
+3676720;49;1229122;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3676723;La Virginia;3676720;La Virginia
+3676791;49;1229172;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172372;La Victoria;3676791;La Victoria
+3676864;49;1229225;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3676870;La Vega;3676864;La Vega
+3676923;49;1229268;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3676936;La Unión;3676923;La Unión
+3676928;49;1229273;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3676937;La Unión;3676928;La Unión
+3676934;49;1229279;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3676938;La Unión;3676934;La Unión
+3677010;49;1229325;city;3686110;COL;Colombia;3671087;Quindío Department;3677011;La Tebaida;3677010;La Tebaida
+3678097;49;1230060;city;3686110;COL;Colombia;3680692;Departamento del Huila;3678098;La Plata;3678097;La Plata
+3678118;49;1230072;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9179578;La Pintada;3678118;La Pintada
+3678186;49;1230118;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3670673;La Paz;3678186;La Paz
+3678405;49;1230271;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3687322;Carmen de Carupa;3678405;La Mesa
+3678674;49;1230469;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9179887;La Jagua de Ibirico;3678674;La Jagua de Ibirico
+3678907;49;1230636;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3678913;La Gloria;3678907;La Gloria
+3679065;49;1230758;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3679071;La Estrella;3679065;La Estrella
+3679277;49;1230929;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3679279;La Dorada;3679277;La Dorada
+3679379;49;1230993;city;3686110;COL;Colombia;3674021;Departamento de Nariño;NA;NA;3679379;La Cruz
+3679536;49;1231105;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3681564;Guamo;3679536;La Chamba
+3679554;49;1231120;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3679555;La Ceja;3679554;La Ceja
+3679660;49;1231198;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3679663;La Calera;3679660;La Calera
+3680112;49;1231528;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3666227;Venadillo;3680112;Junín
+3680176;49;1231561;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3680177;Juan de Acosta;3680176;Juan de Acosta
+3680317;49;1231640;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680320;Jericó;3680317;Jericó
+3680366;49;1231676;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680367;Jardín;3680366;Jardín
+3680387;49;1231687;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3680388;Jamundí;3680387;Jamundí
+3680434;49;1231717;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680435;Ituango;3680434;Ituango
+3680450;49;1231724;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3680451;Itagui;3680450;Itagüí
+3680453;49;1231727;city;3686110;COL;Colombia;3686431;Departamento del Chocó;3680454;Istmina;3680453;Istmina
+3680539;49;1231773;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3680540;Ipiales;3680539;Ipiales
+3680656;49;1231828;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3680657;Ibagué;3680656;Ibagué
+3680840;49;1231917;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3680841;Honda;3680840;Honda
+3681356;49;1232232;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3681357;Guateque;3681356;Guateque
+3681368;49;1232241;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3681369;Guatapé;3681368;Guatapé
+3681429;49;1232271;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3681430;Guarne;3681429;Guarne
+3681505;49;1232300;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3681506;Guapi;3681505;Guapí
+3681563;49;1232320;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3681564;Guamo;3681563;Guamo
+3681596;49;1232335;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3681606;Guamal;3681596;Guamal
+3681644;49;1232363;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3681645;Guaitarilla;3681644;Guaitarilla
+3681702;49;1232391;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681703;Guaduas;3681702;Guaduas
+3681797;49;1232449;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3681798;Guacarí;3681797;Guacarí
+3681952;49;1232488;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9178731;Granada;3681952;Granada
+3681957;49;1232493;city;3686110;COL;Colombia;3674810;Departamento del Meta;3681961;Granada;3681957;Granada
+3681990;49;1232511;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3681991;González;3681990;González
+3682018;49;1232525;city;3686110;COL;Colombia;3668578;Departamento de Santander;3682019;Girón;3682018;Girón
+3682028;49;1232532;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682029;Girardot;3682028;Girardot City
+3682039;49;1232542;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3682040;Ginebra;3682039;Ginebra
+3682047;49;1232545;city;3686110;COL;Colombia;3680692;Departamento del Huila;3682048;Gigante;3682047;Gigante
+3682068;49;1232561;city;3686110;COL;Colombia;3671087;Quindío Department;3672256;Pijao;3682068;Génova
+3682108;49;1232577;city;3686110;COL;Colombia;3680692;Departamento del Huila;3682109;Garzón;3682108;Garzón
+3682160;49;1232601;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3682161;Garagoa;3682160;Garagoa
+3682182;49;1232613;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3682184;Gamarra;3682182;Gamarra
+3682232;49;1232638;city;3686110;COL;Colombia;3667725;Departamento de Sucre;9172402;Galeras;3682232;Galeras
+3682238;49;1232641;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3682239;Galapa;3682238;Galapa
+3682245;49;1232648;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3672078;Planadas;3682245;Gaitania
+3682274;49;1232664;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682275;Fusagasugá;3682274;Fusagasugá
+3682281;49;1232668;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682282;Funza;3682281;Funza
+3682292;49;1232675;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3682289;Fundación;3682292;Fundación
+3682313;49;1232684;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682314;Frontino;3682313;Frontino
+3682330;49;1232688;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3682331;Fresno;3682330;Fresno
+3682374;49;1232713;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3682376;Fonseca;3682374;Fonseca
+3682380;49;1232717;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682381;Fomeque;3682380;Fómeque
+3682385;49;1232720;city;3686110;COL;Colombia;3668578;Departamento de Santander;3682386;Floridablanca;3682385;Floridablanca
+3682393;49;1232727;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3682394;Florida;3682393;Florida
+3682426;49;1232756;city;3686110;COL;Colombia;3687479;Departamento del Caquetá;3682428;Florencia;3682426;Florencia
+3682458;49;1232775;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3682459;Flandes;3682458;Flandes
+3682473;49;1232785;city;3686110;COL;Colombia;3671087;Quindío Department;3682475;Filandia;3682473;Filandia
+3682510;49;1232808;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3682511;Falan;3682510;Falan
+3682516;49;1232812;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3682517;Facatativá;3682516;Facatativá
+3682573;49;1232841;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3682574;Espinal;3682573;Espinal
+3682631;49;1232870;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682632;Envigado;3682631;Envigado
+3682682;49;1232899;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3682683;El Zulia;3682682;El Zulia
+3682963;49;1233089;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3682966;El Tambo;3682963;El Tambo
+3682965;49;1233091;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3682967;El Tambo;3682965;El Tambo
+3683155;49;1233244;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;9179884;El Rosal;3683155;El Rosal
+3683233;49;1233306;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609551;El Retén;3683233;El Retén
+3683463;49;1233486;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3683465;El Piñon;3683463;El Piñón
+3683528;49;1233535;city;3686110;COL;Colombia;3687479;Departamento del Caquetá;6979261;El Paujil;3683528;El Paujíl
+3683538;49;1233541;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172315;El Paso;3683538;El Paso
+3683778;49;1233727;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;9178719;El Molino;3683778;El Molino
+3684266;49;1234103;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3684267;El Dovio;3684266;El Dovio
+3684276;49;1234112;city;3686110;COL;Colombia;3687479;Departamento del Caquetá;6979260;El Doncello;3684276;El Doncello
+3684452;49;1234244;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172363;El Copey;3684452;El Copey
+3684579;49;1234344;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3684581;El Charco;3684579;El Charco
+3684615;49;1234373;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3684616;El Cerrito;3684615;El Cerrito
+3684666;49;1234414;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3684667;El Carmen de Bolívar;3684666;El Carmen de Bolívar
+3684683;49;1234428;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3684711;El Carmen;3684683;El Carmen
+3684860;49;1234563;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3672762;Patía;3684860;El Bordo
+3684917;49;1234612;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3684928;El Banco;3684917;El Banco
+3684945;49;1234636;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172166;El Bagre;3684945;El Bagre
+3685084;49;1234728;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3685085;Duitama;3685084;Duitama
+3685095;49;1234730;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;9179551;Dosquebradas;3685095;Dosquebradas
+3685126;49;1234744;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685127;Don Matías;3685126;Donmatías
+3685273;49;1234815;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687908;Calima;3685273;Darien
+3685292;49;1234826;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3685293;Dagua;3685292;Dagua
+3685295;49;1234829;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685297;Dabeiba;3685295;Dabeiba
+3685335;49;1234837;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172314;Curumaní;3685335;Curumaní
+3685432;49;1234873;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3685433;Cumbal;3685432;Cumbal
+3685435;49;1234875;city;3686110;COL;Colombia;3666082;Departamento del Vichada;9172398;Cumaribo;3685435;Cumaribo
+3685442;49;1234878;city;3686110;COL;Colombia;3674810;Departamento del Meta;3685446;Cumaral;3685442;Cumaral
+3685533;49;1234920;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3685534;Cúcuta;3685533;Cúcuta
+3685733;49;1235027;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3685734;Cota;3685733;Cota
+3685823;49;1235077;city;3686110;COL;Colombia;3667725;Departamento de Sucre;3685831;Corozal;3685823;Corozal
+3685871;49;1235104;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3685873;Corinto;3685871;Corinto
+3685893;49;1235112;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3685904;Córdoba;3685893;Córdoba
+3685949;49;1235143;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3685950;Copacabana;3685949;Copacabana
+3686002;49;1235173;city;3686110;COL;Colombia;3686431;Departamento del Chocó;3686003;Condoto;3686002;Condoto
+3686011;49;1235178;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;9609552;Nueva Granada;3686011;Concordia
+3686013;49;1235180;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686016;Concordia;3686013;Concordia
+3686141;49;1235253;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3680657;Ibagué;3686141;Coello
+3686158;49;1235264;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686159;Cocorná;3686158;Cocorná
+3686196;49;1235283;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9179894;Clemencia;3686196;Clemencia
+3686227;49;1235295;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686229;Cisneros;3686227;Cisneros
+3686233;49;1235300;city;3686110;COL;Colombia;3671087;Quindío Department;3686234;Circasia;3686233;Circasia
+3686255;49;1235312;city;3686110;COL;Colombia;3668578;Departamento de Santander;9172366;Cimitarra;3686255;Cimitarra
+3686272;49;1235324;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686273;Ciénaga de Oro;3686272;Ciénaga de Oro
+3686279;49;1235328;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3686276;Ciénaga;3686279;Ciénaga
+3686288;49;1235334;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172253;Cicuco;3686288;Cicuco
+3686422;49;1235389;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686423;Chocontá;3686422;Chocontá
+3686445;49;1235401;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;9172393;Chibolo;3686445;Chivolo
+3686479;49;1235416;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3686481;Chiriguaná;3686479;Chiriguaná
+3686513;49;1235428;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3686515;Chiquinquirá;3686513;Chiquinquirá
+3686540;49;1235441;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686541;Chinú;3686540;Chinú
+3686561;49;1235449;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3686562;Chinchiná;3686561;Chinchiná
+3686574;49;1235455;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3686575;Chinácota;3686574;Chinácota
+3686585;49;1235458;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3686586;Chimichagua;3686585;Chimichagua
+3686636;49;1235480;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3686637;Chigorodó;3686636;Chigorodó
+3686644;49;1235484;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3682574;Espinal;3686644;Chicoral
+3686675;49;1235491;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3686677;Chía;3686675;Chía
+3686793;49;1235567;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3686794;Chaparral;3686793;Chaparral
+3686894;49;1235625;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3686895;Cerro San Antonio;3686894;Cerro de San Antonio
+3686922;49;1235641;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3686923;Cereté;3686922;Cereté
+3687025;49;1235701;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687026;Caucasia;3687025;Caucasia
+3687230;49;1235837;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687232;Cartago;3687230;Cartago
+3687238;49;1235841;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3687247;Municipio de Cartagena de Indias;3687238;Cartagena
+3687318;49;1235902;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9609515;El Carmen de Viboral;3687318;Carmen de Viboral
+3687324;49;1235906;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3687325;Carmen de Apicalá;3687324;Carmen de Apicalá
+3687476;49;1235977;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3687477;Caqueza;3687476;Cáqueza
+3687634;49;1236060;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3687646;Candelaria;3687634;Candelaria
+3687644;49;1236069;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687647;Candelaria;3687644;Candelaria
+3687677;49;1236089;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687679;Cañasgordas;3687677;Cañasgordas
+3687758;49;1236133;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3687759;Campo de La Cruz;3687758;Campo de la Cruz
+3687806;49;1236172;city;3686110;COL;Colombia;3680692;Departamento del Huila;3687808;Campoalegre;3687806;Campoalegre
+3687880;49;1236218;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3687881;Caloto;3687880;Caloto
+3687925;49;1236254;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3687926;Cali;3687925;Cali
+3687952;49;1236270;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3687954;Caldas;3687952;Caldas
+3687964;49;1236276;city;3686110;COL;Colombia;3671087;Quindío Department;3687965;Calarca;3687964;Calarcá
+3687972;49;1236281;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;NA;NA;3687972;Calamar
+3688006;49;1236299;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3688007;Cajicá;3688006;Cajicá
+3688021;49;1236309;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3688022;Cajamarca;3688021;Cajamarca
+3688071;49;1236330;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3686294;Caicedonia;3688071;Caicedonia
+3688254;49;1236414;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3688255;Bugalagrande;3688254;Bugalagrande
+3688256;49;1236416;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9609538;Guadalajara de Buga;3688256;Guadalajara de Buga
+3688451;49;1236565;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172370;Buenaventura;3688451;Buenaventura
+3688452;49;1236566;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;9172370;Buenaventura;3688452;Buenaventura
+3688465;49;1236577;city;3686110;COL;Colombia;3668578;Departamento de Santander;3688467;Bucaramanga;3688465;Bucaramanga
+3688689;49;1236708;city;3686110;COL;Colombia;3688685;Distrito Capital de Bogotá;9609540;Bogotá  D.C.;3688689;Bogotá
+3688840;49;1236794;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688843;Betulia;3688840;Betulia
+3688928;49;1236860;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3688929;Bello;3688928;Bello
+3688989;49;1236914;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3688990;Belén de Umbría;3688989;Belén de Umbría
+3689003;49;1236928;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3689007;Belén;3689003;Belén
+3689012;49;1236935;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3689013;Belalcázar;3689012;Belalcázar
+3689026;49;1236942;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172311;Becerril;3689026;Becerril
+3689147;49;1236999;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3689152;Barranquilla;3689147;Barranquilla
+3689157;49;1237007;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3689158;Barranco de Loba;3689157;Barranco de Loba
+3689162;49;1237012;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;3689165;Barrancas;3689162;Barrancas
+3689169;49;1237019;city;3686110;COL;Colombia;3668578;Departamento de Santander;3689170;Barrancabermeja;3689169;Barrancabermeja
+3689205;49;1237042;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689207;Barbosa;3689205;Barbosa
+3689206;49;1237043;city;3686110;COL;Colombia;3668578;Departamento de Santander;3689208;Barbosa;3689206;Barbosa
+3689228;49;1237056;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3689229;Barbacoas;3689228;Barbacoas
+3689235;49;1237063;city;3686110;COL;Colombia;3689436;Departamento del Atlántico;3689237;Baranoa;3689235;Baranoa
+3689292;49;1237100;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3689294;Balboa;3689292;Balboa
+3689381;49;1237148;city;3686110;COL;Colombia;3685889;Departamento de Córdoba;3689382;Ayapel;3689381;Ayapel
+3689458;49;1237187;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172309;Astrea;3689458;Astrea
+3689551;49;1237242;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3689552;Armero;3689551;Guayabal
+3689560;49;1237250;city;3686110;COL;Colombia;3671087;Quindío Department;3689563;Armenia;3689560;Armenia
+3689570;49;1237256;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3689572;Arjona;3689570;Arjona
+3689589;49;1237267;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172363;El Copey;3689589;Ariguaní
+3689653;49;1237300;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9609541;Arenal;3689653;Arenal
+3689693;49;1237319;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689694;Arboletes;3689693;Arboletes
+3689709;49;1237331;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3689710;Arbeláez;3689709;Arbeláez
+3689714;49;1237336;city;3686110;COL;Colombia;3689717;Departamento de Arauca;6194448;Arauquita;3689714;Arauquita
+3689718;49;1237340;city;3686110;COL;Colombia;3689717;Departamento de Arauca;3689720;Arauca;3689718;Arauca
+3689740;49;1237353;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3689741;Aranzazu;3689740;Aranzazu
+3689759;49;1237363;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3689761;Aracataca;3689759;Aracataca
+3689771;49;1237374;city;3686110;COL;Colombia;3688536;Departamento de Boyacá;3689772;Aquitania;3689771;Aquitania
+3689793;49;1237383;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3689794;Apía;3689793;Apía
+3689798;49;1237386;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172037;Apartadó;3689798;Apartadó
+3689816;49;1237400;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689819;Santafé de Antioquia;3689816;Santa Fe de Antioquia
+3689831;49;1237409;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3689832;Ansermanuevo;3689831;Ansermanuevo
+3689833;49;1237411;city;3686110;COL;Colombia;3670698;Departamento de Risaralda;3681354;Guática;3689833;Anserma
+3689841;49;1237417;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3681307;Guayabal de Siquima;3689841;Anolaima
+3689899;49;1237443;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3689900;Andes;3689899;Andes
+3689905;49;1237449;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3689907;Andalucía;3689905;Andalucía
+3689915;49;1237454;city;3686110;COL;Colombia;3674021;Departamento de Nariño;3689916;Ancuyá;3689915;Ancuya
+3689952;49;1237464;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3688022;Cajamarca;3689952;Anaime
+3690010;49;1237491;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690011;Amalfi;3690010;Amalfi
+3690019;49;1237498;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690020;Amagá;3690019;Amagá
+3690160;49;1237600;city;3686110;COL;Colombia;3680692;Departamento del Huila;3690161;Algeciras;3690160;Algeciras
+3690172;49;1237603;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;9172393;Chibolo;3690172;Algarrobo
+3690237;49;1237653;city;3686110;COL;Colombia;3666313;Departamento del Valle del Cauca;3690238;Alcalá;3690237;Alcalá
+3690250;49;1237660;city;3686110;COL;Colombia;3678847;Departamento de La Guajira;9179910;Albania;3690250;Albania
+3690287;49;1237682;city;3686110;COL;Colombia;3680692;Departamento del Huila;3690288;Aipe;3690287;Aipe
+3690316;49;1237697;city;3686110;COL;Colombia;3687173;Departamento de Casanare;3690317;Aguazul;3690316;Aguazul
+3690429;49;1237743;city;3686110;COL;Colombia;3685413;Departamento de Cundinamarca;3690430;Agua de Dios;3690429;Agua de Dios
+3690431;49;1237745;city;3686110;COL;Colombia;3687951;Departamento de Caldas;3690432;Aguadas;3690431;Aguadas
+3690465;49;1237760;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3690466;Aguachica;3690465;Aguachica
+3690549;49;1237796;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;3690550;Achí;3690549;Achí
+3690577;49;1237805;city;3686110;COL;Colombia;3674810;Departamento del Meta;3690578;Acacías;3690577;Acacías
+3690584;49;1237810;city;3686110;COL;Colombia;3673798;Departamento de Norte de Santander;3690586;Abrego;3690584;Ábrego
+3690592;49;1237815;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3690593;Abejorral;3690592;Abejorral
+3732964;49;1238695;city;3686110;COL;Colombia;3674810;Departamento del Meta;9172361;Lejanías;3732964;Lejanías
+3733861;49;1238866;city;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172289;Curillo;3733861;Curillo
+3769932;49;1242011;city;3686110;COL;Colombia;3687173;Departamento de Casanare;3674446;Monterrey;3769932;Monterrey
+3769976;49;1242036;city;3686110;COL;Colombia;3674810;Departamento del Meta;9172360;Puerto Gaitán;3769976;Puerto Gaitán
+3770718;49;1242359;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3674415;Morales;3770718;Morales
+3770955;49;1242443;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3682966;El Tambo;3770955;Villa Rica
+3780602;49;1245225;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3682333;Fredonia;3780602;Fredonia
+3792375;49;1247684;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9172223;Carepa;3792375;Carepa
+3792376;49;1247685;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;9609514;Ciudad Bolívar;3792376;Ciudad Bolívar
+3792377;49;1247686;city;3686110;COL;Colombia;3689815;Departamento de Antioquia;3665793;Yalí;3792377;Vegachí
+3792378;49;1247687;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172415;Altos del Rosario;3792378;Altos del Rosario
+3792379;49;1247688;city;3686110;COL;Colombia;3688650;Departamento de Bolívar;9172162;Santa Rosa del Sur;3792379;Santa Rosa del Sur
+3792382;49;1247691;city;3686110;COL;Colombia;3687479;Departamento del Caquetá;9172287;Cartagena del Chairá;3792382;Cartagena del Chairá
+3792383;49;1247692;city;3686110;COL;Colombia;3686880;Departamento del Cesar;3690298;Agustín Codazzi;3792383;Agustín Codazzi
+3792384;49;1247693;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172317;Manaure;3792384;Manaure Balcón del Cesar
+3792385;49;1247694;city;3686110;COL;Colombia;3686880;Departamento del Cesar;9172163;San Martín;3792385;San Martín
+3792389;49;1247698;city;3686110;COL;Colombia;3680692;Departamento del Huila;3669559;Isnos;3792389;Isnos
+3792392;49;1247701;city;3686110;COL;Colombia;3675686;Departamento del Magdalena;3672032;Plato;3792392;Plato
+3792399;49;1247708;city;3686110;COL;Colombia;3668578;Departamento de Santander;9172298;El Playón;3792399;El Playón
+3827723;49;1248974;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172308;Valle del Guamuez;3827723;Valle del Guamuez
+3828283;49;1249134;city;3686110;COL;Colombia;3666951;Departamento de Tolima;3690125;Alpujarra;3828283;Santa Isabel
+3828545;49;1249245;city;3686110;COL;Colombia;3681344;Departamento del Guaviare;6851384;San José del Guaviare;3828545;San José del Guaviare
+3829343;49;1249590;city;3686110;COL;Colombia;3671178;Departamento del Putumayo;9172321;Orito;3829343;Orito
+8633918;49;1255478;city;3686110;COL;Colombia;3687029;Departamento del Cauca;3672262;Piendamó;8633918;Piendamo

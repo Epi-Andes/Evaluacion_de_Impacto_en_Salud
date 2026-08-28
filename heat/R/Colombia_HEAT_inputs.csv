@@ -1,0 +1,10 @@
+﻿segment;Index_geography;ucc_country_location_id;ucc_location_id;raw_activemode_walk_ref_numer;raw_activemode_bike_ref_number;raw_activemode_walk_ref_population;raw_activemode_bike_ref_population;mortality_rate_acm_walk_ref;mortality_rate_acm_bike_ref;pollution_calc;ap_vsl_lcu_calc
+tramo_1_EDM;Distrito Capital de BogotÇ­;Colombia;3688689;22.97;23.5;65952;21354.9;178.09;119.66;29.8;4973059080
+tramo_1_OMS;Distrito Capital de BogotÇ­;Colombia;3688689;21.42;10.71;65952;21354.9;178.09;119.66;29.8;4973059080
+tramo_1_Susp_METRO;Distrito Capital de BogotÇ­;Colombia;3688689;24.07;23.5;67508.9;21354.9;178.09;119.66;29.8;4973059080
+tramo_2_EDM;Distrito Capital de BogotÇ­;Colombia;3688689;17.46;23.08;50349.5;4146;339.35;221.15;24.72;4973059080
+tramo_2_OMS;Distrito Capital de BogotÇ­;Colombia;3688689;21.42;10.71;50349.5;4146;339.35;221.15;24.72;4973059080
+tramo_2_Susp_METRO;Distrito Capital de BogotÇ­;Colombia;3688689;18.3;23.08;51500.0;4146;339.35;221.15;24.72;4973059080
+tramo_3_EDM;Distrito Capital de BogotÇ­;Colombia;3688689;17.74;29.2;45268.8;4566.8;532.62;357.92;16.71;4973059080
+tramo_3_OMS;Distrito Capital de BogotÇ­;Colombia;3688689;21.42;10.71;45268.8;4566.8;532.62;357.92;16.71;4973059080
+tramo_3_Susp_METRO;Distrito Capital de BogotÇ­;Colombia;3688689;18.59;29.2;46460.8;4566.8;532.62;357.92;16.71;4973059080
