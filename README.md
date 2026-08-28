@@ -1,12 +1,10 @@
 # EIS: Framework para Evaluaciones de Impacto en Salud de intervenciones urbanas
 
-> Estado: documento en construcción. Las secciones de metodología y herramientas están confirmadas contra el código y los reportes revisados. Las secciones de reproducción paso a paso todavía están pendientes.
-
 ## Qué es este repositorio
 
 Este repositorio reúne un framework metodológico para realizar Evaluaciones de Impacto en Salud (EIS / Health Impact Assessment) de intervenciones urbanas relacionadas con movilidad, calidad del aire y salud. El objetivo no es documentar un proyecto puntual, sino dejar un flujo de trabajo reproducible que cualquier investigador pueda aplicar a una intervención distinta, en una ciudad distinta.
 
-Los casos de estudio de referencia (Primera Línea del Metro de Bogotá, ZUMA) son aplicaciones de ejemplo del framework, no su objeto central. Por diseño, este repositorio no incluye bases de datos: es una herramienta de código para que cada investigador la corra con sus propios datos, no un contenedor de los datos de un caso particular. Cada módulo documenta el esquema de entrada que espera y el esquema de salida que produce.
+Los casos de estudio de referencia (Primera Línea del Metro de Bogotá, ZUMA) son aplicaciones de ejemplo del framework, no su objeto central. La idea de fondo es que sea una herramienta de código para que cada investigador la corra con sus propios datos, no un contenedor de los datos de un caso particular; por eso `airq_plus/` y `greenur/` no incluyen ningún dato y cada módulo documenta el esquema de entrada que espera. El módulo `heat/` es la excepción actual: incluye la Encuesta de Movilidad de Bogotá 2023 y un shapefile de UPZ como datos de referencia (ver la sección HEAT más abajo).
 
 
 ## Qué es una EIS en este proyecto
@@ -64,18 +62,16 @@ Un punto importante: las muertes evitables estimadas por cada contaminante o dim
 
 ### HEAT (`heat/`)
 
-- Código:
-  - `01_preparacion_datos_movilidad.ipynb`: agrega la encuesta de movilidad local (módulos de personas y viajes) en minutos de caminata/ciclismo por persona/día, por unidad geográfica y tramo. Usa `geopandas` para cruzar la encuesta con capas GIS del área de influencia.
-  - `02_llamado_api_heat.R`: llama a la API oficial de HEAT por escenario y exporta los resultados crudos.
-- Este módulo **no incluye datos ni resultados**. Depende de insumos que el usuario debe conseguir por su cuenta:
-  1. Encuesta de movilidad local con módulos de personas y viajes (el esquema de columnas que espera el notebook está documentado en sus primeras celdas).
-  2. Capas GIS del área de influencia (buffer, trazado de la intervención, unidades geográficas de agregación).
-  3. Para el llamado a la API: una plantilla `webapp_input` en formato `.rds`, exportada manualmente desde la interfaz web de HEAT (heatwalkingcycling.org/tool, "Export page"), y un token de acceso a la API vigente, provisto por el equipo de HEAT/Sustrans.
-- El token se lee desde la variable de entorno `HEAT_API_TOKEN`; el script falla explícitamente si no está definida. No debe escribirse dentro del código.
-- Documentación oficial de la API, incluida en `heat/docs/`: `README.html` explica el flujo de la API (`prepare_gdr`, `calc_results`, `results`) y dos codebooks (`HEAT_codebook_UI_inputvars_loops_expanded.csv`, `HEAT_codebook_default_background_parameters.csv`) documentan cada variable de entrada que espera HEAT. Estos tres archivos son documentación de referencia, no datos del proyecto.
-- Salida: un data.frame por escenario con campos como `impacttotal`, `impacttotalco2`, `moneytotal` (ver ejemplos en `heat/docs/README.html`).
-- Brecha pendiente: el paso que convierte el volcado crudo de la API en las tablas finales del reporte se hizo manualmente en Excel y todavía no está capturado como código.
-- Las rutas de lectura de datos en `01_preparacion_datos_movilidad.ipynb` están escritas para el entorno original de quien lo desarrolló; deben ajustarse antes de ejecutarlo en otra máquina.
+Contenido actual de la carpeta (ver también `heat/README.MD`, la documentación específica del módulo):
+
+- `Código_Encuesta_Movilidad.ipynb`: agrega la Encuesta de Movilidad de Bogotá 2023 (módulos de personas y viajes) en minutos de caminata/ciclismo por persona/día, cruzando con capas GIS del área de influencia mediante `geopandas`. Es la versión generalizada del notebook (ya no está atado a los tramos del Metro; la última sección es "EIS a evaluar", parametrizable por intervención).
+- `05_Base datos procesada EODH/`: la Encuesta de Movilidad de Bogotá 2023 completa (5 módulos, en CSV y XLSX). 
+- `taprobacionnofupz/`: shapefile con las UPZ de Bogotá. También incluido.
+- `R/HEAT_EIS.R`: llama a la API oficial de HEAT (`api.heatwalkingcycling.org`, la misma que usa la herramienta web de la OMS/Sustrans) por escenario y exporta los resultados crudos a `HEAT_resultados_total.xlsx`.
+- `R/Colombia_HEAT_inputs.csv`, `R/Colombia_HEAT_location_ids.csv`, `R/Colombia_onecase_webapp_input.rds`: insumos de ese script (datos de escenario, mapeo de ubicaciones HEAT, y la plantilla `webapp_input` exportada de la interfaz web de HEAT).
+
+
+Salida del módulo: un data.frame por escenario con campos como `impacttotal`, `impacttotalco2`, `moneytotal` (ver documentación de la API en el sitio de HEAT).
 
 ## Reporting (`reporting/`)
 
@@ -96,13 +92,18 @@ EIS/
 ├── LICENSE
 ├── requirements.txt          # dependencias Python (AirQ+, GreenUr, preparación de datos de HEAT)
 ├── requirements_r.R          # dependencias R (llamadas a la API de HEAT, reporting)
-├── airq_plus/                # módulo AirQ+ (calidad del aire) — solo código
-├── greenur/                  # módulo GreenUr (cobertura vegetal) — solo código
-├── heat/                     # módulo HEAT (movilidad activa) — código + documentación de la API
-│   └── docs/
+├── airq_plus/                # módulo AirQ+ (calidad del aire) — solo código, sin datos
+├── greenur/                  # módulo GreenUr (cobertura vegetal) — solo código, sin datos
+├── heat/                     # módulo HEAT (movilidad activa) — código + datos de la Encuesta de Movilidad 2023
+│   ├── README.MD
+│   ├── Código_Encuesta_Movilidad.ipynb
+│   ├── R/
+│   ├── 05_Base datos procesada EODH/
+│   └── taprobacionnofupz/
 └── reporting/                # scripts que consolidan salidas de los módulos en tablas de reporte
 
 ```
+
 
 
 ## Insumos que cada módulo espera (no incluidos en el repositorio)
@@ -111,11 +112,11 @@ EIS/
 |---|---|---|
 | Archivo de entrada por caso de estudio (`<CASO>_AIRQ+.xlsx`) | AirQ+ | Ver esquema de columnas en la sección AirQ+ de este README |
 | Archivo de entrada por caso de estudio (`<CASO>_GREENUR.xlsx` o equivalente) | GreenUr | Ver esquema de columnas en la sección GreenUr de este README |
-| Encuesta de movilidad local (módulos personas y viajes) | HEAT — preparación de datos | Formato de la Encuesta de Movilidad de Bogotá 2023; columnas documentadas en la primera celda de `heat/01_preparacion_datos_movilidad.ipynb` |
-| Capas GIS del área de influencia (buffer, trazado, unidades geográficas) | HEAT — preparación de datos | Shapefile o geopackage con la geometría de la intervención y sus unidades de agregación |
-| Plantilla `webapp_input` (`.rds`) | HEAT — llamado a la API | Se exporta manualmente desde la interfaz web de HEAT (heatwalkingcycling.org/tool), "Export page" |
-| Token de acceso a la API de HEAT | HEAT — llamado a la API | Se solicita al equipo de HEAT/Sustrans; se define como variable de entorno `HEAT_API_TOKEN`, nunca en el código |
+| Encuesta de movilidad local (módulos personas y viajes), para un caso distinto a Bogotá | HEAT - preparación de datos | Formato de la Encuesta de Movilidad de Bogotá 2023 (incluida en `heat/05_Base datos procesada EODH/` como referencia); columnas documentadas en las primeras celdas de `heat/Código_Encuesta_Movilidad.ipynb` |
+| Capas GIS del área de influencia, para un caso distinto a Bogotá | HEAT - preparación de datos | Shapefile o geopackage con la geometría de la intervención y sus unidades de agregación (el shapefile de UPZ de Bogotá ya está incluido en `heat/taprobacionnofupz/`) |
+| Plantilla `webapp_input` (`.rds`), para un caso nuevo | HEAT - llamado a la API | Se exporta manualmente desde la interfaz web de HEAT (heatwalkingcycling.org/tool), "Export page". Ya hay una plantilla de ejemplo en `heat/R/Colombia_onecase_webapp_input.rds` |
 | Código generalizado del módulo LST / rearborización | Fuera de alcance de este repositorio por ahora | Reporte técnico (sección de análisis de temperatura superficial) |
+
 
 
 ## Licencia
