@@ -1,4 +1,4 @@
-# EIS: Framework para Evaluaciones de Impacto en Salud de intervenciones urbanas
+# EIS: Evaluación de Impacto en Salud
 
 ## Qué es este repositorio
 
