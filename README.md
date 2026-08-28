@@ -28,7 +28,7 @@ Un punto importante: las muertes evitables estimadas por cada contaminante o dim
 |---|---|---|---|
 | **AirQ+** | Muertes prematuras evitables por reducción de PM2.5, PM10 y NO2 | Reimplementación propia en Python de la metodología de AirQ+ (función exposición-respuesta log-lineal, PAF por unidad geográfica). No requiere instalar el software de la OMS; los resultados se validaron contra la herramienta oficial. | Ninguna. Corre localmente. |
 | **GreenUr** | Muertes prematuras evitables por aumento de cobertura vegetal (NDVI) | Reimplementación propia en Python de la función exposición-respuesta de Rojas-Rueda et al. (2019). | Ninguna. Corre localmente. |
-| **HEAT** | Muertes prematuras evitables y CO2 no emitido por aumento de caminata/ciclismo | Preparación de datos en Python (encuesta de movilidad) + llamadas en R a la API oficial de HEAT ("HaaS", `api.heatwalkingcycling.org`), que expone el mismo paquete R que usa la herramienta web de la OMS/Sustrans. | Sí: requiere conectividad a internet, un token de acceso a la API y una plantilla `.rds` exportada manualmente desde la interfaz web de HEAT. |
+| **Heat** | Muertes prematuras evitables y CO2 no emitido por aumento de caminata/ciclismo | Preparación de datos en Python (encuesta de movilidad) + llamadas en R a la API oficial de HEAT ("HaaS", `api.heatwalkingcycling.org`), que expone el mismo paquete R que usa la herramienta web de la OMS/Sustrans. | Sí: requiere conectividad a internet, un token de acceso a la API y una plantilla `.rds` exportada manualmente desde la interfaz web de HEAT. |
 
 ### AirQ+ (`airq_plus/`)
 
